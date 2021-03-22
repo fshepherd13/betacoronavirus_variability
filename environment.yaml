@@ -1,0 +1,8 @@
+name: sarscov2_tcell
+channels: 
+    - bioconda
+    - conda-forge
+
+dependencies:
+    - snakemake
+    - samtools
