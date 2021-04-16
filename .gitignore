@@ -1,9 +1,11 @@
 # Files created by the pipeline, which we want to keep out of git
 # (or at least out of _this_ git repo).
 #folder with raw betacoronavirus and sarscov2 gisaid data
-./data/
+data/
 ./beta-cov/data/combined*
 
+#Distance matrices from auxilary analysis done in Geneious
+betacov_distance_matrices/
 
 
 
@@ -11,7 +13,7 @@
 environment*
 
 # Snakemake state dir
-/.snakemake
+beta-cov/.snakemake
 
 # Local config overrides
 /config_local.yaml
