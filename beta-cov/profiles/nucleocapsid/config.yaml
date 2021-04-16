@@ -1,0 +1,19 @@
+inputs:
+  sequences: "data/combined_n/betacov_n.fasta"
+  metadata: "data/combined_n/betacov_n_metadata.tsv"
+
+files:
+  final_auspice_file: "betacov_n.json"
+  include: "config/include.txt"
+  dropped_strains: "config/dropped_strains.txt"
+  reference: "config/betacov_reference.gb"
+  auspice_config: "config/auspice_config_betacov_n.json"
+  colors: "config/colors.tsv"
+  description: "config/s_description.md"
+
+out_dir: "results_n"
+
+filter:
+  group_by: "virus_species"
+  sequences_per_group: 300
+

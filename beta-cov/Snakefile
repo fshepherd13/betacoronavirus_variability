@@ -1,0 +1,133 @@
+#configfile: "profiles/nucleocapsid/config.yaml"
+out_dir=config["out_dir"]
+
+
+rule all:
+    input:
+        auspice_json = expand("auspice/{final_auspice_file}", final_auspice_file = config["files"]["final_auspice_file"])
+
+rule files:
+    params:
+        input_fasta = config["inputs"]["sequences"],
+        input_metadata = config["inputs"]["metadata"],
+        include = config["files"]["include"],
+        dropped_strains = config["files"]["dropped_strains"],
+        reference = config["files"]["reference"],
+        auspice_config = config["files"]["auspice_config"],
+        colors = config["files"]["colors"],
+        description = config["files"]["description"]
+
+files = rules.files.params
+
+
+rule filter:
+    message:
+        """
+        Filtering to
+          - excluding strains in {input.exclude}
+        """
+    input:
+        sequences = files.input_fasta,
+        metadata = files.input_metadata,
+        include = files.include,
+        exclude = files.dropped_strains
+    output:
+        sequences = expand("{out_dir}/filtered.fasta", out_dir=out_dir)
+    params:
+        group_by = config["filter"]["group_by"],
+        sequences_per_group = config["filter"]["sequences_per_group"],
+        #exclude_where = config["filter"]["exclude_where"]
+    shell:
+        """
+        augur filter \
+            --sequences {input.sequences} \
+            --metadata {input.metadata} \
+            --exclude {input.exclude} \
+            --include {input.include} \
+            --output {output.sequences} \
+            --group-by {params.group_by} \
+            --sequences-per-group {params.sequences_per_group} \
+        """
+
+rule align:
+    message:
+        """
+        Aligning sequences to {input.reference}
+          - filling gaps with N
+        """
+    input:
+        sequences = rules.filter.output.sequences,
+        reference = files.reference
+    output:
+        alignment = expand("{out_dir}/aligned.fasta", out_dir = out_dir)
+    shell:
+        """
+        mafft --retree 1 --nofft --thread 2 {input.sequences} > {output.alignment}
+        """
+
+rule tree:
+    message: "Building tree"
+    input:
+        alignment = rules.align.output.alignment
+    output:
+        tree = expand("{out_dir}/tree_raw.nwk", out_dir = out_dir)
+    shell:
+        """
+        augur tree \
+            --alignment {input.alignment} \
+            --output {output.tree}
+        """
+
+rule refine:
+    message:
+        """
+        Refining tree
+        """
+    input:
+        tree = rules.tree.output.tree,
+        alignment = rules.align.output,
+        metadata = files.input_metadata
+    output:
+        tree = expand("{out_dir}/tree.nwk", out_dir=out_dir),
+        node_data = expand("{out_dir}/branch_lengths.json", out_dir=out_dir)
+    shell:
+        """
+        augur refine \
+            --tree {input.tree} \
+            --alignment {input.alignment} \
+            --metadata {input.metadata} \
+            --root ZBCoV \
+            --output-tree {output.tree} \
+            --output-node-data {output.node_data}
+        """
+
+rule export:
+    message: "Exporting data files for for auspice"
+    input:
+        tree = rules.refine.output.tree,
+        metadata = files.input_metadata,
+        branch_lengths = rules.refine.output.node_data,
+        auspice_config = files.auspice_config,
+        colors = files.colors,
+        description = files.description
+    output:
+        auspice_json = rules.all.input.auspice_json
+    shell:
+        """
+        augur export v2 \
+            --tree {input.tree} \
+            --metadata {input.metadata} \
+            --node-data {input.branch_lengths} \
+            --auspice-config {input.auspice_config} \
+            --colors {input.colors} \
+            --description {input.description} \
+            --output {output.auspice_json}
+        """
+
+rule clean:
+    message: "Removing directories: {params}"
+    params:
+        out_dir,
+        "auspice"
+    shell:
+        "rm -rfv {params}"

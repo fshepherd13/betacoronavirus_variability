@@ -1,0 +1,46 @@
+{
+  "title": "Genetic diversity of betacoronavirus spike genes",
+  "maintainers": [
+    {"name": "Frances Shepherd"}
+  ],
+  "build_url": "https://github.com/langloislab",
+  "colorings": [
+    {
+      "key": "virus_species",
+      "title": "virus species",
+      "type": "categorical"
+    },
+    {
+      "key": "host",
+      "title": "host",
+      "type": "categorical"
+    },
+    {
+      "key": "country",
+      "title": "country",
+      "type": "categorical"
+    },
+    {
+      "key": "region",
+      "title": "region",
+      "type": "categorical"
+    }
+  ],
+  "geo_resolutions": [
+    "country"
+  ],
+  "display_defaults": {
+    "color_by": "virus_species",
+    "map_triplicate": true
+  },
+  "filters": [
+    "virus_species",
+    "host",
+    "country",
+    "region"
+  ],
+  "panels": [
+    "tree",
+    "map"
+  ]
+}

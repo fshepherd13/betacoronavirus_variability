@@ -1,0 +1,8425 @@
+{
+  "alignment": "results_n/aligned.fasta",
+  "generated_by": {
+    "program": "augur",
+    "version": "11.1.2"
+  },
+  "input_tree": "results_n/tree_raw.nwk",
+  "nodes": {
+    "011/DAB/C8/F_1": {
+      "branch_length": 0.0
+    },
+    "011/LOM/C20/F_1": {
+      "branch_length": 0.0
+    },
+    "10108/2010": {
+      "branch_length": 0.00224039
+    },
+    "10285/2010": {
+      "branch_length": 0.0
+    },
+    "10290/2010": {
+      "branch_length": 0.0
+    },
+    "10574/2010": {
+      "branch_length": 0.0007465
+    },
+    "12689/2012": {
+      "branch_length": 0.000746
+    },
+    "12691/2012": {
+      "branch_length": 1e-06
+    },
+    "12694/2012": {
+      "branch_length": 0.0
+    },
+    "1783A/10": {
+      "branch_length": 0.00750459
+    },
+    "1908A/2010": {
+      "branch_length": 0.00224091
+    },
+    "1926/2006": {
+      "branch_length": 0.00074628
+    },
+    "19572_Belgium_2004": {
+      "branch_length": 0.00224056
+    },
+    "1997A/2010": {
+      "branch_length": 1e-06
+    },
+    "2002_04": {
+      "branch_length": 2.22e-06
+    },
+    "2007_09": {
+      "branch_length": 1e-06
+    },
+    "2058A/10": {
+      "branch_length": 1e-06
+    },
+    "2145A/2010": {
+      "branch_length": 0.00074612
+    },
+    "2151A/2010": {
+      "branch_length": 0.0
+    },
+    "229/2005": {
+      "branch_length": 0.00074616
+    },
+    "3074A/2012": {
+      "branch_length": 0.00223946
+    },
+    "3184A/2012": {
+      "branch_length": 0.00149645
+    },
+    "3194A/2012": {
+      "branch_length": 0.00074584
+    },
+    "3269A/2012": {
+      "branch_length": 0.0
+    },
+    "3582/2006": {
+      "branch_length": 0.0
+    },
+    "3647/2006": {
+      "branch_length": 0.0
+    },
+    "39A/2007": {
+      "branch_length": 1e-06
+    },
+    "4_17_03": {
+      "branch_length": 0.00448732
+    },
+    "4_17_08": {
+      "branch_length": 1e-06
+    },
+    "4_17_25": {
+      "branch_length": 0.00373989
+    },
+    "5240/2007": {
+      "branch_length": 0.0
+    },
+    "5345/2007": {
+      "branch_length": 0.0
+    },
+    "5352/2007": {
+      "branch_length": 0.0
+    },
+    "5370/2007": {
+      "branch_length": 0.0
+    },
+    "5414/2007": {
+      "branch_length": 0.0
+    },
+    "5442/2007": {
+      "branch_length": 0.0
+    },
+    "5445/2007": {
+      "branch_length": 0.0
+    },
+    "5472/2007": {
+      "branch_length": 0.0
+    },
+    "5479/2007": {
+      "branch_length": 0.0
+    },
+    "5484/2007": {
+      "branch_length": 0.0
+    },
+    "5485/2007": {
+      "branch_length": 0.0
+    },
+    "5508/2007": {
+      "branch_length": 0.00074616
+    },
+    "5517/2007": {
+      "branch_length": 0.0
+    },
+    "5519/2007": {
+      "branch_length": 0.00074612
+    },
+    "5566/2007": {
+      "branch_length": 0.0
+    },
+    "5595/2007": {
+      "branch_length": 0.0
+    },
+    "5617/2007": {
+      "branch_length": 0.0
+    },
+    "69A/2007": {
+      "branch_length": 0.00074611
+    },
+    "7_16_23": {
+      "branch_length": 0.00149319
+    },
+    "8164/2009": {
+      "branch_length": 0.00074636
+    },
+    "87309_Belgium_2003": {
+      "branch_length": 0.00149309
+    },
+    "892A/2008": {
+      "branch_length": 0.00149275
+    },
+    "A001": {
+      "branch_length": 0.0
+    },
+    "A022": {
+      "branch_length": 0.00158444
+    },
+    "A59": {
+      "branch_length": 1e-06
+    },
+    "AH187": {
+      "branch_length": 0.0
+    },
+    "AM2": {
+      "branch_length": 0.0
+    },
+    "ARG/Cordoba-11499-61/2020": {
+      "branch_length": 0.0
+    },
+    "AS": {
+      "branch_length": 0.0
+    },
+    "ATCC_VR_759": {
+      "branch_length": 0.00074641
+    },
+    "AUS/NT11/2020": {
+      "branch_length": 1e-06
+    },
+    "AUS/SA04/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/TAS04/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/TAS105/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/TAS113/2020": {
+      "branch_length": 1e-06
+    },
+    "AUS/TAS145/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/TAS188/2020": {
+      "branch_length": 1e-06
+    },
+    "AUS/TAS202/2020": {
+      "branch_length": 1e-06
+    },
+    "AUS/TAS224/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/TAS240/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/TAS250/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/TAS264/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/TAS87/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC101/2020": {
+      "branch_length": 1e-06
+    },
+    "AUS/VIC10671/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC10760/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC10772/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC10796/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC10833/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC11078/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC1110/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC11583/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC12551/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC1285/2020": {
+      "branch_length": 1e-06
+    },
+    "AUS/VIC13372/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC13858/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC14034/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC1428/2020": {
+      "branch_length": 1e-06
+    },
+    "AUS/VIC1499/2020": {
+      "branch_length": 1e-06
+    },
+    "AUS/VIC15002/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC15079/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC1557/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC15683/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC15686/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC16193/2020": {
+      "branch_length": 0.00081623
+    },
+    "AUS/VIC16212/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC16300/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC1653/2020": {
+      "branch_length": 0.00080677
+    },
+    "AUS/VIC1748/2020": {
+      "branch_length": 1e-06
+    },
+    "AUS/VIC1836/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC2026/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC2537/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC3024/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC337/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC4194/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC4687/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC7383/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC7932/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC7984/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC823/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC8491/2020": {
+      "branch_length": 0.0
+    },
+    "AUS/VIC8977/2020": {
+      "branch_length": 0.0
+    },
+    "AUT/2021009034/2021": {
+      "branch_length": 0.00079692
+    },
+    "AUT/2021011795/2021": {
+      "branch_length": 0.0
+    },
+    "Abu_Dhabi/Gayathi_UAE_2_2014": {
+      "branch_length": 1e-06
+    },
+    "Abu_Dhabi_UAE_16_2014": {
+      "branch_length": 0.0
+    },
+    "Abu_Dhabi_UAE_18_2014": {
+      "branch_length": 0.0
+    },
+    "Abu_Dhabi_UAE_26_2014": {
+      "branch_length": 0.0
+    },
+    "Abu_Dhabi_UAE_30_2014": {
+      "branch_length": 0.0
+    },
+    "Abu_Dhabi_UAE_33_2014": {
+      "branch_length": 0.0
+    },
+    "Abu_Dhabi_UAE_8_2014": {
+      "branch_length": 0.0
+    },
+    "Abu_Dhabi_UAE_9_2013": {
+      "branch_length": 0.0
+    },
+    "Al_Hasa_12_2013": {
+      "branch_length": 0.0
+    },
+    "Al_Hasa_15_2013": {
+      "branch_length": 0.0
+    },
+    "Al_Hasa_16_2013": {
+      "branch_length": 0.0
+    },
+    "Al_Hasa_17_2013": {
+      "branch_length": 0.0
+    },
+    "Al_Hasa_18_2013": {
+      "branch_length": 0.0
+    },
+    "Al_Hasa_19_2013": {
+      "branch_length": 0.00080363
+    },
+    "Al_Hasa_1_2013": {
+      "branch_length": 0.0
+    },
+    "Al_Hasa_21_2013": {
+      "branch_length": 0.0
+    },
+    "Al_Hasa_25_2013": {
+      "branch_length": 0.0
+    },
+    "Al_Hasa_2_2013": {
+      "branch_length": 0.0
+    },
+    "Al_Hasa_3_2013": {
+      "branch_length": 1e-06
+    },
+    "Al_Hasa_4_2013": {
+      "branch_length": 0.0
+    },
+    "As6526": {
+      "branch_length": 0.00238333
+    },
+    "B039": {
+      "branch_length": 0.00158662
+    },
+    "B04f": {
+      "branch_length": 0.0
+    },
+    "B05f": {
+      "branch_length": 1e-06
+    },
+    "B07f": {
+      "branch_length": 0.0
+    },
+    "BCV_AKS_01": {
+      "branch_length": 0.00900613
+    },
+    "BCoV_2014_13": {
+      "branch_length": 0.00149318
+    },
+    "BCoV_ENT": {
+      "branch_length": 0.00299048
+    },
+    "BCoV_LUN": {
+      "branch_length": 0.002991
+    },
+    "BEN/1408/2020": {
+      "branch_length": 0.0
+    },
+    "BEN/314/2020": {
+      "branch_length": 0.0
+    },
+    "BF_005I": {
+      "branch_length": 1e-06
+    },
+    "BF_017I": {
+      "branch_length": 0.010558
+    },
+    "BF_141I": {
+      "branch_length": 0.11194247
+    },
+    "BF_493I": {
+      "branch_length": 1e-06
+    },
+    "BGD/BCSIR_NILMRC_003/2020": {
+      "branch_length": 0.0
+    },
+    "BGD/BCSIR_NILMRC_220/2020": {
+      "branch_length": 0.00079734
+    },
+    "BGD/G039392/2021": {
+      "branch_length": 0.000797
+    },
+    "BGD/GRBL_S4/2020": {
+      "branch_length": 0.0
+    },
+    "BHR/090000572_S16_L001/2020": {
+      "branch_length": 0.00079673
+    },
+    "BHR/340249126/2020": {
+      "branch_length": 0.0
+    },
+    "BHR/340654690/2020": {
+      "branch_length": 0.0
+    },
+    "BHR/341493589/2021": {
+      "branch_length": 0.00079649
+    },
+    "BJ01": {
+      "branch_length": 0.0
+    },
+    "BJ01_p3": {
+      "branch_length": 0.0
+    },
+    "BJ01_p9": {
+      "branch_length": 0.0
+    },
+    "BJ02": {
+      "branch_length": 0.0
+    },
+    "BJ03": {
+      "branch_length": 0.00079171
+    },
+    "BJ04": {
+      "branch_length": 0.0
+    },
+    "BJ162": {
+      "branch_length": 0.0
+    },
+    "BJ182_12": {
+      "branch_length": 0.00079167
+    },
+    "BJ182_4": {
+      "branch_length": 0.0
+    },
+    "BJ182_8": {
+      "branch_length": 0.0
+    },
+    "BJ182a": {
+      "branch_length": 0.0
+    },
+    "BJ182b": {
+      "branch_length": 1e-06
+    },
+    "BJ202": {
+      "branch_length": 0.0
+    },
+    "BJ232": {
+      "branch_length": 0.00729489
+    },
+    "BJ_112": {
+      "branch_length": 0.00074879
+    },
+    "BJ_124": {
+      "branch_length": 0.00074599
+    },
+    "BJ_164": {
+      "branch_length": 1e-06
+    },
+    "BJ_165": {
+      "branch_length": 0.0
+    },
+    "BJ_221": {
+      "branch_length": 0.0
+    },
+    "BRA/RJ-DCV05/2020": {
+      "branch_length": 0.0
+    },
+    "BRA/RJ-DCVN2/2020": {
+      "branch_length": 0.0
+    },
+    "Bat_CoV/Hsavii/Italy/206645_40/2011": {
+      "branch_length": 0.00091774
+    },
+    "Bat_CoV/Pkhulii/Italy/206645_63/2011": {
+      "branch_length": 0.00999768
+    },
+    "Bisha_1_2012": {
+      "branch_length": 0.0
+    },
+    "BtCoV/133/2005": {
+      "branch_length": 0.01066371
+    },
+    "BtCoV/273/2005": {
+      "branch_length": 1e-06
+    },
+    "BtCoV/279/2005": {
+      "branch_length": 0.00478242
+    },
+    "BtKY72": {
+      "branch_length": 0.1474008
+    },
+    "BtPa_GD2013": {
+      "branch_length": 0.00696974
+    },
+    "BtRf_HeB2013": {
+      "branch_length": 1e-06
+    },
+    "BtRf_SX2013": {
+      "branch_length": 0.00079287
+    },
+    "BtRl_BetaCoV/SC2018": {
+      "branch_length": 0.01535906
+    },
+    "BtRs_BetaCoV/YN2018A": {
+      "branch_length": 0.00402605
+    },
+    "BtRs_BetaCoV/YN2018B": {
+      "branch_length": 0.00237789
+    },
+    "BtRs_BetaCoV/YN2018C": {
+      "branch_length": 0.00082228
+    },
+    "BtRs_BetaCoV/YN2018D": {
+      "branch_length": 1e-06
+    },
+    "BtRs_GX2013": {
+      "branch_length": 0.01452921
+    },
+    "BtRs_HuB2013": {
+      "branch_length": 0.00444398
+    },
+    "BtRs_YN2013": {
+      "branch_length": 0.01524369
+    },
+    "BtTp_GX2012": {
+      "branch_length": 0.01520336
+    },
+    "Buffalo_coronavirus_B1_24F": {
+      "branch_length": 0.00223929
+    },
+    "Buffalo_coronavirus_B1_28F": {
+      "branch_length": 0.00299096
+    },
+    "Buraidah_1_2013": {
+      "branch_length": 0.0
+    },
+    "CC14": {
+      "branch_length": 1e-06
+    },
+    "CC_23": {
+      "branch_length": 0.00074803
+    },
+    "CDC_200301157": {
+      "branch_length": 0.0
+    },
+    "CFB/SZ/94/03": {
+      "branch_length": 1e-06
+    },
+    "CHL/Puerto_Montt-PUC_MVL_0065/2020": {
+      "branch_length": 0.0
+    },
+    "CHL/Puerto_Montt-PUC_MVL_0067/2020": {
+      "branch_length": 0.0
+    },
+    "CHL/Santiago-5092643/2020": {
+      "branch_length": 0.0
+    },
+    "CHL/Santiago-5092655/2020": {
+      "branch_length": 0.0
+    },
+    "CHL/Santiago-5092659/2020": {
+      "branch_length": 0.0
+    },
+    "CHL/Santiago-5092661/2020": {
+      "branch_length": 0.000797
+    },
+    "CHL/Santiago-PUC_MVL_0014/2020": {
+      "branch_length": 0.0
+    },
+    "CHL/Santiago-PUC_MVL_0028/2020": {
+      "branch_length": 0.0
+    },
+    "CHL/Santiago-PUC_MVL_0050/2020": {
+      "branch_length": 0.0
+    },
+    "CHL/Santiago-PUC_MVL_0108/2020": {
+      "branch_length": 0.0
+    },
+    "CHL/Santiago-PUC_MVL_0145/2020": {
+      "branch_length": 0.0
+    },
+    "CHL/Santiago-PUC_MVL_0151/2020": {
+      "branch_length": 0.0
+    },
+    "CHL/Santiago-PUC_MVL_0215/2020": {
+      "branch_length": 0.0
+    },
+    "CHL/Santiago-PUC_MVL_0273/2020": {
+      "branch_length": 0.0
+    },
+    "CHL/Santiago-PUC_MVL_0519/2020": {
+      "branch_length": 0.0
+    },
+    "CHL/Santiago-op7d1/2020": {
+      "branch_length": 0.0
+    },
+    "CHN/GZMU0048/2020": {
+      "branch_length": 0.0
+    },
+    "CHN/HN01/2020": {
+      "branch_length": 0.0
+    },
+    "CHN/HN07/2020": {
+      "branch_length": 0.0
+    },
+    "CHN/OS1/2020": {
+      "branch_length": 0.0
+    },
+    "CHN/SH01/2020": {
+      "branch_length": 0.0
+    },
+    "CUHK_AG01": {
+      "branch_length": 0.0
+    },
+    "CUHK_AG02": {
+      "branch_length": 0.0
+    },
+    "CUHK_AG03": {
+      "branch_length": 0.0
+    },
+    "CUHK_Su10": {
+      "branch_length": 0.00079177
+    },
+    "CUHK_W1": {
+      "branch_length": 0.0
+    },
+    "CV7": {
+      "branch_length": 0.0
+    },
+    "CZE/IAB_18/2020": {
+      "branch_length": 0.0
+    },
+    "Caen1": {
+      "branch_length": 0.00225165
+    },
+    "Camel/Oman_1_2015": {
+      "branch_length": 0.00160912
+    },
+    "Camel/Qatar_2_2014": {
+      "branch_length": 1e-06
+    },
+    "Camel/UAE/D116410/2014": {
+      "branch_length": 0.0
+    },
+    "Camel/UAE/D116411/2014": {
+      "branch_length": 0.0
+    },
+    "Camel/UAE/D116414/2014": {
+      "branch_length": 0.0
+    },
+    "Camel/UAE/D11649/2014": {
+      "branch_length": 0.0
+    },
+    "Camel/UAE/D1209/2014": {
+      "branch_length": 0.0
+    },
+    "Camel/UAE/D124312/2014": {
+      "branch_length": 0.0
+    },
+    "Camel/UAE/D13392/2014": {
+      "branch_length": 0.0
+    },
+    "Camel/UAE/D469_14": {
+      "branch_length": 0.0
+    },
+    "Camel/UAE/D511_14": {
+      "branch_length": 0.0
+    },
+    "Camel/UAE_1B_A_2014": {
+      "branch_length": 0.0
+    },
+    "Camel/UAE_1H_B_2014": {
+      "branch_length": 1e-06
+    },
+    "Camel/UAE_1H_D_2014": {
+      "branch_length": 0.0
+    },
+    "Camel/UAE_1H_F_2014": {
+      "branch_length": 0.0
+    },
+    "Camel/UAE_2B_E_2014": {
+      "branch_length": 0.0
+    },
+    "Camel/UAE_3B_C_2014": {
+      "branch_length": 1e-06
+    },
+    "ChinaGD01": {
+      "branch_length": 0.0
+    },
+    "ChinaGD01_variant_1": {
+      "branch_length": 0.0
+    },
+    "ChinaGD01_variant_2": {
+      "branch_length": 0.0
+    },
+    "Cp/Yunnan2011": {
+      "branch_length": 0.01550107
+    },
+    "D1157/15": {
+      "branch_length": 1e-06
+    },
+    "D11641/14": {
+      "branch_length": 0.0
+    },
+    "D11891/15": {
+      "branch_length": 0.0
+    },
+    "D1271/15": {
+      "branch_length": 0.0
+    },
+    "D252/15": {
+      "branch_length": 1e-06
+    },
+    "D25972/14": {
+      "branch_length": 0.0
+    },
+    "D27313/14": {
+      "branch_length": 0.0
+    },
+    "D374/15": {
+      "branch_length": 0.0
+    },
+    "D383/15": {
+      "branch_length": 0.00080352
+    },
+    "D389/15": {
+      "branch_length": 0.0
+    },
+    "D998/15": {
+      "branch_length": 0.00644496
+    },
+    "DB2": {
+      "branch_length": 1e-06
+    },
+    "DEU/BavPat1/2020": {
+      "branch_length": 0.0
+    },
+    "DEU/BavPat3-ChVir1020/2020": {
+      "branch_length": 0.0
+    },
+    "DEU/FFM-BRA1/2021": {
+      "branch_length": 0.00079657
+    },
+    "DEU/NRW-04/2020": {
+      "branch_length": 0.0
+    },
+    "DcCoV_HKU23/camel/Ethiopia/CAC1019/2015": {
+      "branch_length": 0.00681144
+    },
+    "DcCoV_HKU23/camel/Morocco/CAC2586/2016": {
+      "branch_length": 0.00299502
+    },
+    "DcCoV_HKU23/camel/Nigeria/NV1010/2015": {
+      "branch_length": 0.0
+    },
+    "DcCoV_HKU23/camel/Nigeria/NV1092/2015": {
+      "branch_length": 1e-06
+    },
+    "DcCoV_HKU23/camel/Nigeria/NV1097/2015": {
+      "branch_length": 0.00224531
+    },
+    "DcCoV_HKU23/camel/Nigeria/NV1385/2016": {
+      "branch_length": 0.0
+    },
+    "E0_034": {
+      "branch_length": 0.00224031
+    },
+    "EGY/CUNCI-HGC10I001/2020": {
+      "branch_length": 0.00079726
+    },
+    "EGY/CUNCI-HGC10I024/2020": {
+      "branch_length": 1e-06
+    },
+    "EGY/CUNCI-HGC12I024/2021": {
+      "branch_length": 1e-06
+    },
+    "EGY/CUNCI-HGC5I003/2020": {
+      "branch_length": 1e-06
+    },
+    "EGY/CUNCI-HGC9I013/2020": {
+      "branch_length": 0.00159488
+    },
+    "EGY/CUNCI-HGC9I030/2020": {
+      "branch_length": 1e-06
+    },
+    "EGY/EGY-041/2020": {
+      "branch_length": 0.0
+    },
+    "EGY/EGY-049/2020": {
+      "branch_length": 0.0
+    },
+    "EGY/EGY-115/2020": {
+      "branch_length": 0.0
+    },
+    "EGY/EGY-ARMY-MCL008/2020": {
+      "branch_length": 1e-06
+    },
+    "EGY/EGY-ARMY-MCL011/2020": {
+      "branch_length": 0.00239476
+    },
+    "EGY/EGY_CCHE57357_A_49/2020": {
+      "branch_length": 0.00079644
+    },
+    "EGY/EGY_CCHE57357_A_63/2020": {
+      "branch_length": 1e-06
+    },
+    "EGY/EGY_CCHE57357_P_01/2020": {
+      "branch_length": 0.00079711
+    },
+    "EGY/PHARCO-ARMY007/2021": {
+      "branch_length": 1e-06
+    },
+    "ESP/AST-232025446/2020": {
+      "branch_length": 0.0
+    },
+    "ESP/AST-232039084/2020": {
+      "branch_length": 0.0
+    },
+    "ESP/COVID-80_19/2020": {
+      "branch_length": 0.0
+    },
+    "ESP/HUD-79063130/2020": {
+      "branch_length": 1e-06
+    },
+    "ESP/HUD-79063196/2020": {
+      "branch_length": 0.00159473
+    },
+    "E_AH187": {
+      "branch_length": 1e-06
+    },
+    "E_AH187_TC": {
+      "branch_length": 1e-06
+    },
+    "E_AH65": {
+      "branch_length": 1e-06
+    },
+    "E_AH65_TC": {
+      "branch_length": 1e-06
+    },
+    "E_DB2_TC": {
+      "branch_length": 1e-06
+    },
+    "England/2/2013": {
+      "branch_length": 0.0
+    },
+    "England/2/2020": {
+      "branch_length": 0.0
+    },
+    "England/3/2013": {
+      "branch_length": 0.0
+    },
+    "England/4/2013": {
+      "branch_length": 1e-06
+    },
+    "England/NORW-EAFE1/2020": {
+      "branch_length": 1e-06
+    },
+    "England/Qatar/2012": {
+      "branch_length": 0.00080724
+    },
+    "ErinaceusCoV/2012_174/GER/2012": {
+      "branch_length": 0.01748966
+    },
+    "ErinaceusCoV/2012_216/GER/2012": {
+      "branch_length": 0.00626859
+    },
+    "ExoN1_mutant": {
+      "branch_length": 0.0
+    },
+    "F46": {
+      "branch_length": 0.00781079
+    },
+    "FRA": {
+      "branch_length": 0.0
+    },
+    "FRA/UAE": {
+      "branch_length": 1e-06
+    },
+    "Florida/USA_2_Saudi_Arabia_2014": {
+      "branch_length": 0.0
+    },
+    "Frankfurt_1": {
+      "branch_length": 0.0
+    },
+    "GBR/CVR-GLA-2/2020": {
+      "branch_length": 0.0
+    },
+    "GBR/USAFSAM-S026/2020": {
+      "branch_length": 0.0
+    },
+    "GD01": {
+      "branch_length": 0.0
+    },
+    "GD69": {
+      "branch_length": 0.00079159
+    },
+    "GDH_BJH01": {
+      "branch_length": 0.0
+    },
+    "GEO/Tb-27822/2020": {
+      "branch_length": 0.0
+    },
+    "GHA/2666_S32/2020": {
+      "branch_length": 1e-06
+    },
+    "GHA/3176_S11/2020": {
+      "branch_length": 1e-06
+    },
+    "GHA/34927_S20/2020": {
+      "branch_length": 0.00079729
+    },
+    "GHA/84279_S42/2020": {
+      "branch_length": 0.00159559
+    },
+    "GHA/WACCBIP_nCoV_GS12/2020": {
+      "branch_length": 1e-06
+    },
+    "GHA/WACCBIP_nCoV_GS136/2021": {
+      "branch_length": 1e-06
+    },
+    "GHA/WACCBIP_nCoV_GS20/2020": {
+      "branch_length": 0.0
+    },
+    "GHA/WACCBIP_nCoV_GS21/2020": {
+      "branch_length": 1e-06
+    },
+    "GHA/WACCBIP_nCoV_GS22/2020": {
+      "branch_length": 0.0
+    },
+    "GHA/WACCBIP_nCoV_GS30/2020": {
+      "branch_length": 0.0
+    },
+    "GHA/nmimr-SARS-CoV-2-NTRA-13164/2020": {
+      "branch_length": 0.0
+    },
+    "GHA/nmimr-SARS-CoV-2-NTRA-9793/2020": {
+      "branch_length": 0.00159477
+    },
+    "GRC/137_32340/2020": {
+      "branch_length": 0.0
+    },
+    "GRC/217_34885/2020": {
+      "branch_length": 0.0
+    },
+    "GRC/36_36859/2020": {
+      "branch_length": 0.0
+    },
+    "GRC/53_38017/2020": {
+      "branch_length": 0.0
+    },
+    "GZ02": {
+      "branch_length": 1e-06
+    },
+    "GZ0401": {
+      "branch_length": 0.0
+    },
+    "GZ0402": {
+      "branch_length": 0.00079184
+    },
+    "GZ50": {
+      "branch_length": 0.0
+    },
+    "GZYF_26": {
+      "branch_length": 1e-06
+    },
+    "GZ_A": {
+      "branch_length": 0.0
+    },
+    "GZ_B": {
+      "branch_length": 0.0
+    },
+    "GZ_C": {
+      "branch_length": 1e-06
+    },
+    "HC/GZ/32/03": {
+      "branch_length": 1e-06
+    },
+    "HC/GZ/81/03": {
+      "branch_length": 1e-06
+    },
+    "HC/SZ/266/03": {
+      "branch_length": 0.0
+    },
+    "HC/SZ/61/03": {
+      "branch_length": 0.00079218
+    },
+    "HC/SZ/79/03": {
+      "branch_length": 1e-06
+    },
+    "HC/SZ/DM1/03": {
+      "branch_length": 0.0
+    },
+    "HCoV_EMC": {
+      "branch_length": 1e-06
+    },
+    "HCoV_OC43/UK/London/2011": {
+      "branch_length": 0.00224057
+    },
+    "HCoV_OC43/USA/ACRI_0052/2016": {
+      "branch_length": 1e-06
+    },
+    "HCoV_OC43/USA/ACRI_0213/2016": {
+      "branch_length": 0.00074583
+    },
+    "HCoV_OC43/USA/TCNP_00212/2017": {
+      "branch_length": 0.00074578
+    },
+    "HCoV_OC43/USA/TCNP_0070/2016": {
+      "branch_length": 0.00149185
+    },
+    "HGZ8L1_A": {
+      "branch_length": 1e-06
+    },
+    "HGZ8L1_B": {
+      "branch_length": 1e-06
+    },
+    "HGZ8L2": {
+      "branch_length": 0.0
+    },
+    "HK04_01": {
+      "branch_length": 0.0
+    },
+    "HK04_02": {
+      "branch_length": 1e-06
+    },
+    "HKU1": {
+      "branch_length": 1e-06
+    },
+    "HKU1/USA/HKU1_1/2005": {
+      "branch_length": 0.00074046
+    },
+    "HKU1/USA/HKU1_10/2010": {
+      "branch_length": 0.0
+    },
+    "HKU1/USA/HKU1_11/2009": {
+      "branch_length": 0.0
+    },
+    "HKU1/USA/HKU1_12/2010": {
+      "branch_length": 0.0
+    },
+    "HKU1/USA/HKU1_13/2010": {
+      "branch_length": 1e-06
+    },
+    "HKU1/USA/HKU1_14/2009": {
+      "branch_length": 0.0
+    },
+    "HKU1/USA/HKU1_15/2009": {
+      "branch_length": 0.00148291
+    },
+    "HKU1/USA/HKU1_16/2010": {
+      "branch_length": 0.00074076
+    },
+    "HKU1/USA/HKU1_18/2010": {
+      "branch_length": 1e-06
+    },
+    "HKU1/USA/HKU1_5/2009": {
+      "branch_length": 0.0007408
+    },
+    "HKU1/USA/HKU1_7/2010": {
+      "branch_length": 0.0
+    },
+    "HKU14_1": {
+      "branch_length": 0.00173557
+    },
+    "HKU14_10": {
+      "branch_length": 0.00151279
+    },
+    "HKU14_3": {
+      "branch_length": 0.0007544
+    },
+    "HKU14_8": {
+      "branch_length": 0.00075401
+    },
+    "HKU23_265F": {
+      "branch_length": 0.0
+    },
+    "HKU23_362F": {
+      "branch_length": 1e-06
+    },
+    "HKU23_368F": {
+      "branch_length": 0.0
+    },
+    "HKU24_R05005I": {
+      "branch_length": 0.0
+    },
+    "HKU24_R05009I": {
+      "branch_length": 1e-06
+    },
+    "HKU24_R05010I": {
+      "branch_length": 0.0
+    },
+    "HKU3_1": {
+      "branch_length": 1e-06
+    },
+    "HKU3_10": {
+      "branch_length": 1e-06
+    },
+    "HKU3_11": {
+      "branch_length": 0.0
+    },
+    "HKU3_12": {
+      "branch_length": 0.00158861
+    },
+    "HKU3_13": {
+      "branch_length": 1e-06
+    },
+    "HKU3_2": {
+      "branch_length": 1e-06
+    },
+    "HKU3_3": {
+      "branch_length": 1e-06
+    },
+    "HKU3_4": {
+      "branch_length": 0.0
+    },
+    "HKU3_5": {
+      "branch_length": 1e-06
+    },
+    "HKU3_6": {
+      "branch_length": 0.0
+    },
+    "HKU3_7": {
+      "branch_length": 1e-06
+    },
+    "HKU3_8": {
+      "branch_length": 1e-06
+    },
+    "HKU3_9": {
+      "branch_length": 0.0
+    },
+    "HKU4_1_B04f": {
+      "branch_length": 0.0
+    },
+    "HKU5_1_LMH03f": {
+      "branch_length": 1e-06
+    },
+    "HKU9_1_BF_005I": {
+      "branch_length": 1e-06
+    },
+    "HKU_39849": {
+      "branch_length": 0.0
+    },
+    "HSR_1": {
+      "branch_length": 0.0
+    },
+    "HSZ2_A": {
+      "branch_length": 0.0
+    },
+    "HSZ_Bb": {
+      "branch_length": 0.0
+    },
+    "HSZ_Bc": {
+      "branch_length": 0.0
+    },
+    "HSZ_Cb": {
+      "branch_length": 0.0
+    },
+    "HSZ_Cc": {
+      "branch_length": 0.0
+    },
+    "HZS2_Bb": {
+      "branch_length": 0.0
+    },
+    "HZS2_C": {
+      "branch_length": 0.0
+    },
+    "HZS2_D": {
+      "branch_length": 0.0
+    },
+    "HZS2_E": {
+      "branch_length": 0.0
+    },
+    "HZS2_Fb": {
+      "branch_length": 0.0
+    },
+    "HZS2_Fc": {
+      "branch_length": 0.0
+    },
+    "HZ_459": {
+      "branch_length": 0.0
+    },
+    "Hafr_Al_Batin_1_2013": {
+      "branch_length": 0.0
+    },
+    "Hafr_Al_Batin_2_2013": {
+      "branch_length": 1e-06
+    },
+    "Hafr_Al_Batin_6_2013": {
+      "branch_length": 0.0
+    },
+    "HongKong/49_3001/2020": {
+      "branch_length": 0.0
+    },
+    "HongKong/VM20108924/2020": {
+      "branch_length": 1e-06
+    },
+    "Hu/Albaha_KSA_0800H/2018": {
+      "branch_length": 0.0
+    },
+    "Hu/Amman_Jordan_12641/2015": {
+      "branch_length": 0.00080288
+    },
+    "Hu/Amman_Jordan_12716/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Amman_Jordan_12918/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Amman_Jordan_13030/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Artawiyah_KSA_13328/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Aseer_KSA_173RS1288/2017": {
+      "branch_length": 0.00080313
+    },
+    "Hu/Aseer_KSA_Rs924/2015": {
+      "branch_length": 1e-06
+    },
+    "Hu/Hufuf_KSA_11002/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Hufuf_KSA_11150/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Hufuf_KSA_11401/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Hufuf_KSA_11442/2015": {
+      "branch_length": 0.00080319
+    },
+    "Hu/Hufuf_KSA_11767/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Hufuf_KSA_9158/2015": {
+      "branch_length": 0.00080324
+    },
+    "Hu/Jeddah_KSA_161RS1146/2016": {
+      "branch_length": 0.00080351
+    },
+    "Hu/Jeddah_KSA_173RS1101/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Jeddah_KSA_173RS1512/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Jeddah_KSA_173RS1570/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Jeddah_KSA_182RS2449/2018": {
+      "branch_length": 1e-06
+    },
+    "Hu/Jeddah_KSA_3RS2702/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Jeddah_KSA_C20843/2015": {
+      "branch_length": 1e-06
+    },
+    "Hu/Jeddah_KSA_C20860/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Jeddah_KSA_C21271/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Jordan_12641/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Jordan_12642/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Jordan_12662/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Jordan_12688/2015": {
+      "branch_length": 1e-06
+    },
+    "Hu/Jordan_12716/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Jordan_12764/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Jordan_12856/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Jordan_12918/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Jordan_12964/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Jordan_13025/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Jordan_13030/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Jordan_13068/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Jordan_13076/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Jordan_20140010168/2014": {
+      "branch_length": 0.0
+    },
+    "Hu/Jordan_201440011123/2014": {
+      "branch_length": 0.0
+    },
+    "Hu/Jordan_201440011858/2014": {
+      "branch_length": 0.00080309
+    },
+    "Hu/Kharj_KSA_2598/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Kharj_KSA_2599/2015": {
+      "branch_length": 0.00080347
+    },
+    "Hu/Khobar_KSA_6736/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Najran_KSA_182RS2567/2018": {
+      "branch_length": 1e-06
+    },
+    "Hu/Najran_KSA_183RS279/2018": {
+      "branch_length": 0.00160733
+    },
+    "Hu/Najran_KSA_C20915/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Northern_KSA_1847784/2018": {
+      "branch_length": 0.00080329
+    },
+    "Hu/Oman_2285_2013": {
+      "branch_length": 0.0
+    },
+    "Hu/Oman_2874_2013": {
+      "branch_length": 0.0
+    },
+    "Hu/Oman_50_2015": {
+      "branch_length": 1e-06
+    },
+    "Hu/Qaseem_KSA_18013897/2018": {
+      "branch_length": 0.0
+    },
+    "Hu/Qasim_KSA_13922/2016": {
+      "branch_length": 1e-06
+    },
+    "Hu/Qasim_KSA_893/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_002D1N/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_004D1S/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_005D1S/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_007D1N/2015": {
+      "branch_length": 0.00080347
+    },
+    "Hu/Riyadh_KSA_008D3N/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_009D1N/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_012D1S/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_014D1N/2015": {
+      "branch_length": 1e-06
+    },
+    "Hu/Riyadh_KSA_015D1P/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_023D1N/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_031D1N/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_036D1N/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_039D3T/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_10024/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_10208/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_10308/2017": {
+      "branch_length": 1e-06
+    },
+    "Hu/Riyadh_KSA_10717/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_11739/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_11740/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_11898/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_11958/2016": {
+      "branch_length": 1e-06
+    },
+    "Hu/Riyadh_KSA_12160/2016": {
+      "branch_length": 0.00160758
+    },
+    "Hu/Riyadh_KSA_12832/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_12969/2016": {
+      "branch_length": 1e-06
+    },
+    "Hu/Riyadh_KSA_13127/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_13798/2016": {
+      "branch_length": 0.00080319
+    },
+    "Hu/Riyadh_KSA_13984/2016": {
+      "branch_length": 0.00160667
+    },
+    "Hu/Riyadh_KSA_14607/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_14670/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_14949/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_15385/2016": {
+      "branch_length": 0.00080351
+    },
+    "Hu/Riyadh_KSA_16077/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_16098/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_16117/2015": {
+      "branch_length": 1e-06
+    },
+    "Hu/Riyadh_KSA_16120/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_16121/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_16559/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_16849/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_17382/2016": {
+      "branch_length": 1e-06
+    },
+    "Hu/Riyadh_KSA_17756/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_18012493/2018": {
+      "branch_length": 1e-06
+    },
+    "Hu/Riyadh_KSA_18014504/2018": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_19003852/2019": {
+      "branch_length": 0.00080308
+    },
+    "Hu/Riyadh_KSA_19949/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_2049/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_21155/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_21891/2016": {
+      "branch_length": 0.00080319
+    },
+    "Hu/Riyadh_KSA_2343/2015": {
+      "branch_length": 1e-06
+    },
+    "Hu/Riyadh_KSA_2345/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_24241/2016": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_24244/2016": {
+      "branch_length": 0.00160689
+    },
+    "Hu/Riyadh_KSA_2466/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_2716/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_2959_2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_3181/2015": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_4050_2015": {
+      "branch_length": 1e-06
+    },
+    "Hu/Riyadh_KSA_5767/2017": {
+      "branch_length": 0.00080304
+    },
+    "Hu/Riyadh_KSA_7178/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_7344/2017": {
+      "branch_length": 0.0008046
+    },
+    "Hu/Riyadh_KSA_7373/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_7413/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_7423/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_7436/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_7680/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_8667/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_8677/2017": {
+      "branch_length": 1e-06
+    },
+    "Hu/Riyadh_KSA_8683/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_8882/2017": {
+      "branch_length": 1e-06
+    },
+    "Hu/Riyadh_KSA_9614/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_9689/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_9693/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_9730/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_9852/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Riyadh_KSA_K17000405/2017": {
+      "branch_length": 0.0
+    },
+    "Hu/Tabuk_KSA_153/2018": {
+      "branch_length": 0.0
+    },
+    "Hu/Taif/KSA_7032/2014": {
+      "branch_length": 1e-06
+    },
+    "Hu/Taif/KSA_7032/2014/S530del": {
+      "branch_length": 1e-06
+    },
+    "Hu/UAE_002_2013": {
+      "branch_length": 1e-06
+    },
+    "Hu/UAE_004_2013": {
+      "branch_length": 1e-06
+    },
+    "Hu/UAE_009_2014": {
+      "branch_length": 0.0
+    },
+    "Hu/UAE_015_2014": {
+      "branch_length": 0.0
+    },
+    "Hu/UAE_017_2014": {
+      "branch_length": 0.0
+    },
+    "Hu/UAE_025_2014": {
+      "branch_length": 0.0
+    },
+    "Hu/UAE_032_2014": {
+      "branch_length": 0.0
+    },
+    "Hu/UAE_X_2014": {
+      "branch_length": 0.0
+    },
+    "Hu_France__UAE____FRA1_1627_2013_BAL_Sanger": {
+      "branch_length": 0.0
+    },
+    "Hu_France___FRA2_130569_2013_IS_HTS": {
+      "branch_length": 0.0
+    },
+    "Hu_France___FRA2_130569_2013_InSpu_Sanger": {
+      "branch_length": 0.0
+    },
+    "Hu_France___FRA2_130569_2013_Isolate_Sanger": {
+      "branch_length": 0.0
+    },
+    "ICSA16_EN": {
+      "branch_length": 0.00074653
+    },
+    "ICSA16_LBA": {
+      "branch_length": 0.0
+    },
+    "ICSA21_LBA": {
+      "branch_length": 0.00149357
+    },
+    "ICSA_pool_EN": {
+      "branch_length": 1e-06
+    },
+    "ICSA_pool_LBA": {
+      "branch_length": 0.0
+    },
+    "IND/29_1/2020": {
+      "branch_length": 0.0
+    },
+    "IND/GBRC-386b/2020": {
+      "branch_length": 0.00079711
+    },
+    "IND/GBRC21/2020": {
+      "branch_length": 0.0
+    },
+    "IND/GBRC410/2020": {
+      "branch_length": 0.0
+    },
+    "IND/GBRC432/2020": {
+      "branch_length": 0.00079673
+    },
+    "ISR/NH_MA_0727/2020": {
+      "branch_length": 0.00159473
+    },
+    "ISR/hCov-19-Israel-CVL-n-5991/2020": {
+      "branch_length": 0.0
+    },
+    "ITA/APU-POLBA08/2020": {
+      "branch_length": 0.00079676
+    },
+    "ITA/Milan-UNIMI-1/2020": {
+      "branch_length": 0.0
+    },
+    "ITA/Naples_Ceinge-02/2021": {
+      "branch_length": 0.0
+    },
+    "ITA/Nuoro-CoV130/2020": {
+      "branch_length": 0.0
+    },
+    "ITA/Siena_15/2020": {
+      "branch_length": 0.00079732
+    },
+    "Indiana/USA_1_Saudi_Arabia_2014": {
+      "branch_length": 0.0
+    },
+    "JHMWU": {
+      "branch_length": 1e-06
+    },
+    "JHM_WU_Dns2": {
+      "branch_length": 0.00073839
+    },
+    "JL/2008": {
+      "branch_length": 1e-06
+    },
+    "JMD": {
+      "branch_length": 1e-06
+    },
+    "JOR/SEARCH-0033-JOR/2020": {
+      "branch_length": 0.0
+    },
+    "Jeddah_1_2013": {
+      "branch_length": 0.0
+    },
+    "Jeddah_C10306/KSA/2014_04_20": {
+      "branch_length": 0.0
+    },
+    "Jeddah_C7149/KSA/2014_04_05": {
+      "branch_length": 0.0
+    },
+    "Jeddah_C7569/KSA/2014_04_03": {
+      "branch_length": 1e-06
+    },
+    "Jeddah_C7770/KSA/2014_04_07": {
+      "branch_length": 0.00080304
+    },
+    "Jeddah_C8826/KSA/2014_04_12": {
+      "branch_length": 0.0
+    },
+    "Jeddah_C9055/KSA/2014_04_14": {
+      "branch_length": 0.0
+    },
+    "Jordan_10_2015": {
+      "branch_length": 0.0
+    },
+    "Jordan_1_2015": {
+      "branch_length": 1e-06
+    },
+    "Jordan_1_cultured_2015": {
+      "branch_length": 0.0
+    },
+    "Jordan_N3/2012": {
+      "branch_length": 1e-06
+    },
+    "KEN/C25662/2020": {
+      "branch_length": 0.0
+    },
+    "KEN/C3205/2020": {
+      "branch_length": 0.0
+    },
+    "KEN/C4497/2020": {
+      "branch_length": 1e-06
+    },
+    "KEN/C5433/2020": {
+      "branch_length": 0.0
+    },
+    "KEN/C5695/2020": {
+      "branch_length": 1e-06
+    },
+    "KEN/C58/2020": {
+      "branch_length": 0.0
+    },
+    "KEN/C713/2020": {
+      "branch_length": 0.0
+    },
+    "KEN/C7547/2020": {
+      "branch_length": 0.0
+    },
+    "KEN/D6/2020": {
+      "branch_length": 1e-06
+    },
+    "KFMC_1": {
+      "branch_length": 0.0
+    },
+    "KFMC_10": {
+      "branch_length": 0.0
+    },
+    "KFMC_2": {
+      "branch_length": 0.0
+    },
+    "KFMC_3": {
+      "branch_length": 0.0
+    },
+    "KFMC_4": {
+      "branch_length": 0.0
+    },
+    "KFMC_5": {
+      "branch_length": 0.0
+    },
+    "KFMC_6": {
+      "branch_length": 0.0
+    },
+    "KFMC_7": {
+      "branch_length": 0.0
+    },
+    "KFMC_8": {
+      "branch_length": 0.0
+    },
+    "KFMC_9": {
+      "branch_length": 0.0008029
+    },
+    "KFU_HKU_1": {
+      "branch_length": 0.0
+    },
+    "KFU_HKU_13": {
+      "branch_length": 0.0
+    },
+    "KFU_HKU_19Dam": {
+      "branch_length": 1e-06
+    },
+    "KNIH/002_05_2015": {
+      "branch_length": 0.0
+    },
+    "KOREA/Seoul/014_1_2015": {
+      "branch_length": 0.0
+    },
+    "KOREA/Seoul/014_2_2015": {
+      "branch_length": 0.0
+    },
+    "KOREA/Seoul/035_1_2015": {
+      "branch_length": 0.0
+    },
+    "KOREA/Seoul/035_2_2015": {
+      "branch_length": 0.0
+    },
+    "KOREA/Seoul/163_1_2015": {
+      "branch_length": 0.0
+    },
+    "KOREA/Seoul/163_2_2015": {
+      "branch_length": 0.0
+    },
+    "KOREA/Seoul/168_1_2015": {
+      "branch_length": 0.0
+    },
+    "KOREA/Seoul/168_2_2015": {
+      "branch_length": 0.0
+    },
+    "KSA_1722": {
+      "branch_length": 0.00080347
+    },
+    "KSA_1723": {
+      "branch_length": 0.0
+    },
+    "KSA_1724": {
+      "branch_length": 0.0
+    },
+    "KSA_1725": {
+      "branch_length": 0.0
+    },
+    "KSA_CAMEL_363": {
+      "branch_length": 1e-06
+    },
+    "KSA_CAMEL_376": {
+      "branch_length": 0.00160853
+    },
+    "KSA_CAMEL_378": {
+      "branch_length": 1e-06
+    },
+    "KSA_CAMEL_503": {
+      "branch_length": 0.0
+    },
+    "KSA_CAMEL_505": {
+      "branch_length": 1e-06
+    },
+    "Kakegawa": {
+      "branch_length": 0.00224366
+    },
+    "Korea/Seoul/SNU1_035/2015": {
+      "branch_length": 0.0
+    },
+    "LC1": {
+      "branch_length": 0.0
+    },
+    "LC2": {
+      "branch_length": 0.0
+    },
+    "LC3": {
+      "branch_length": 0.0
+    },
+    "LC4": {
+      "branch_length": 0.0
+    },
+    "LC5": {
+      "branch_length": 0.0
+    },
+    "LKA/COV38/2020": {
+      "branch_length": 0.00079822
+    },
+    "LLJ_2004": {
+      "branch_length": 0.0
+    },
+    "LMH03f": {
+      "branch_length": 1e-06
+    },
+    "LMH1f": {
+      "branch_length": 0.00158443
+    },
+    "LY341": {
+      "branch_length": 0.0007462
+    },
+    "LY342": {
+      "branch_length": 0.00149349
+    },
+    "LYRa11": {
+      "branch_length": 0.01955165
+    },
+    "Longquan_140": {
+      "branch_length": 0.01611002
+    },
+    "Longquan_189": {
+      "branch_length": 0.00074306
+    },
+    "Longquan_343": {
+      "branch_length": 0.04485702
+    },
+    "Longquan_370": {
+      "branch_length": 1e-06
+    },
+    "Longquan_708": {
+      "branch_length": 0.07537414
+    },
+    "MA15": {
+      "branch_length": 0.0
+    },
+    "MA15_ExoN1_mutant": {
+      "branch_length": 0.00079155
+    },
+    "MA_15": {
+      "branch_length": 0.0
+    },
+    "MDS11": {
+      "branch_length": 0.00223951
+    },
+    "MDS12": {
+      "branch_length": 1e-06
+    },
+    "MDS14": {
+      "branch_length": 0.00149383
+    },
+    "MDS15": {
+      "branch_length": 0.00223908
+    },
+    "MDS16": {
+      "branch_length": 0.00074855
+    },
+    "MDS2": {
+      "branch_length": 0.00149374
+    },
+    "MDS4": {
+      "branch_length": 1e-06
+    },
+    "MDS6": {
+      "branch_length": 0.00074654
+    },
+    "MERS_CoV/KOR/CNUH_SNU/016_06_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/CNUH_SNU/023_06_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/CNUH_SNU/024_06_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/CNUH_SNU/030_06_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/CNUH_SNU/031_06_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/CNUH_SNU/038_06_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/CNUH_SNU/054_06_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/CNUH_SNU/082_06_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/CNUH_SNU/085_06_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/CNUH_SNU/110_06_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/CNUH_SNU/122_06_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/CNUH_SNU/148_06_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/CNUH_SNU/172_06_2015": {
+      "branch_length": 1e-06
+    },
+    "MERS_CoV/KOR/KCDC/001_2018_TSVi": {
+      "branch_length": 0.00241287
+    },
+    "MERS_CoV/KOR/KNIH/001_05_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/KNIH/002_05_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/Seoul/014_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/Seoul/050_1_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/Seoul/066_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/Seoul/077_2_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/Seoul/080_3_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/Seoul/162_1_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/Seoul/169_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/KOR/Seoul/177_3_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/THA/CU/17_06_2015": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV/camel/Egypt/NRCE_NC163/2014": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV_England_KSA/1/2018": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV_Jeddah_Camel_1": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV_Jeddah__1": {
+      "branch_length": 1e-06
+    },
+    "MERS_CoV_camel/Burkina_Faso/CIRAD_HKU434/2015": {
+      "branch_length": 1e-06
+    },
+    "MERS_CoV_camel/Burkina_Faso/CIRAD_HKU785/2015": {
+      "branch_length": 1e-06
+    },
+    "MERS_CoV_camel/Ethiopia/AAU_EPHI_HKU4412/2017": {
+      "branch_length": 1e-06
+    },
+    "MERS_CoV_camel/Ethiopia/AAU_EPHI_HKU4458/2017": {
+      "branch_length": 0.00080312
+    },
+    "MERS_CoV_camel/Kenya/C1215/2018": {
+      "branch_length": 1e-06
+    },
+    "MERS_CoV_camel/Kenya/C1272/2018": {
+      "branch_length": 1e-06
+    },
+    "MERS_CoV_camel/Morocco/CIRAD_HKU213/2015": {
+      "branch_length": 0.0016068
+    },
+    "MERS_CoV_camel/Nigeria/NV1405/2016": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV_camel/Nigeria/NV1657/2016": {
+      "branch_length": 1e-06
+    },
+    "MERS_CoV_camel/Nigeria/NV1673/2016": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV_camel/Nigeria/NV1712/2016": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV_camel/Nigeria/NV1787/2016": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV_camel/Nigeria/NV1989/2016": {
+      "branch_length": 0.0
+    },
+    "MERS_CoV_camel/Nigeria/NV2040/2016": {
+      "branch_length": 0.0
+    },
+    "MHV/BHKR_lab/USA/icA59_17Cl1/2012": {
+      "branch_length": 0.00073986
+    },
+    "MHV/BHKR_lab/USA/icA59_L94P/2012": {
+      "branch_length": 0.0
+    },
+    "MHV/BHKR_lab/USA/icA59_ns2M/2012": {
+      "branch_length": 0.0
+    },
+    "MHV/BHKR_lab/USA/infA59_H126A/2012": {
+      "branch_length": 0.0
+    },
+    "MHV/NYC/Manhattan/poolF5": {
+      "branch_length": 0.02624055
+    },
+    "MHV/S/3239_17": {
+      "branch_length": 1e-06
+    },
+    "MHV_1": {
+      "branch_length": 0.01459041
+    },
+    "MHV_2": {
+      "branch_length": 1e-06
+    },
+    "MHV_3": {
+      "branch_length": 0.0178166
+    },
+    "MHV_A59": {
+      "branch_length": 0.0
+    },
+    "MHV_JHMIA": {
+      "branch_length": 1e-06
+    },
+    "MHV_MI": {
+      "branch_length": 0.0268826
+    },
+    "MLT/Sliema_4/2020": {
+      "branch_length": 0.00079706
+    },
+    "ML_10": {
+      "branch_length": 0.00291109
+    },
+    "ML_11": {
+      "branch_length": 0.00074453
+    },
+    "MYS/188407/2020": {
+      "branch_length": 1e-06
+    },
+    "MY_U002/12": {
+      "branch_length": 1e-06
+    },
+    "MY_U1024/12": {
+      "branch_length": 0.00224306
+    },
+    "MY_U1057/12": {
+      "branch_length": 0.0
+    },
+    "MY_U1140/12": {
+      "branch_length": 0.0
+    },
+    "MY_U1758/13": {
+      "branch_length": 0.0
+    },
+    "MY_U1975/13": {
+      "branch_length": 0.0
+    },
+    "MY_U208/12": {
+      "branch_length": 0.00074626
+    },
+    "MY_U236/12": {
+      "branch_length": 0.00074617
+    },
+    "MY_U413/12": {
+      "branch_length": 0.00074635
+    },
+    "MY_U464/12": {
+      "branch_length": 0.0
+    },
+    "MY_U523/12": {
+      "branch_length": 0.0
+    },
+    "MY_U710/12": {
+      "branch_length": 0.0
+    },
+    "MY_U732/12": {
+      "branch_length": 0.0
+    },
+    "MY_U774/12": {
+      "branch_length": 0.0
+    },
+    "MY_U868/12": {
+      "branch_length": 0.0
+    },
+    "MY_U945/12": {
+      "branch_length": 0.00074612
+    },
+    "Madinah_3b_2013": {
+      "branch_length": 1e-06
+    },
+    "Makkah_C9355/KSA/Makkah/2014_04_15": {
+      "branch_length": 0.0
+    },
+    "Mesocricetusauratus/HKG/8_P2/2020": {
+      "branch_length": 0.0
+    },
+    "Munich": {
+      "branch_length": 0.0
+    },
+    "N07_1541B_433X": {
+      "branch_length": 0.0
+    },
+    "N07_1609B": {
+      "branch_length": 0.0
+    },
+    "N07_1647B": {
+      "branch_length": 0.0
+    },
+    "N07_1689B_116X": {
+      "branch_length": 1e-06
+    },
+    "N08_33B_360X": {
+      "branch_length": 0.0
+    },
+    "N08_87": {
+      "branch_length": 1e-06
+    },
+    "N09_1605B": {
+      "branch_length": 0.0
+    },
+    "N09_1627B": {
+      "branch_length": 0.0
+    },
+    "N09_1663B": {
+      "branch_length": 0.0
+    },
+    "N09_382B": {
+      "branch_length": 0.0
+    },
+    "N09_595B": {
+      "branch_length": 0.0
+    },
+    "N10": {
+      "branch_length": 0.00074095
+    },
+    "N11": {
+      "branch_length": 0.00148258
+    },
+    "N13": {
+      "branch_length": 0.0
+    },
+    "N14": {
+      "branch_length": 1e-06
+    },
+    "N15": {
+      "branch_length": 1e-06
+    },
+    "N16": {
+      "branch_length": 0.0
+    },
+    "N17": {
+      "branch_length": 0.0
+    },
+    "N18": {
+      "branch_length": 0.0
+    },
+    "N19": {
+      "branch_length": 0.00074092
+    },
+    "N20": {
+      "branch_length": 1e-06
+    },
+    "N21": {
+      "branch_length": 0.0
+    },
+    "N22": {
+      "branch_length": 0.0
+    },
+    "N23": {
+      "branch_length": 1e-06
+    },
+    "N24": {
+      "branch_length": 0.00074092
+    },
+    "N25": {
+      "branch_length": 0.0007402
+    },
+    "N3": {
+      "branch_length": 1e-06
+    },
+    "N5P8": {
+      "branch_length": 0.0
+    },
+    "N6": {
+      "branch_length": 0.0
+    },
+    "N7": {
+      "branch_length": 1e-06
+    },
+    "N9": {
+      "branch_length": 0.0014825
+    },
+    "NL13845": {
+      "branch_length": 0.08788077
+    },
+    "NL140422": {
+      "branch_length": 0.09596016
+    },
+    "NODE_0000000": {
+      "branch_length": 0.001
+    },
+    "NODE_0000001": {
+      "branch_length": 0.22193719
+    },
+    "NODE_0000002": {
+      "branch_length": 0.21473481
+    },
+    "NODE_0000003": {
+      "branch_length": 0.24677713
+    },
+    "NODE_0000004": {
+      "branch_length": 0.07830356
+    },
+    "NODE_0000005": {
+      "branch_length": 0.0275823
+    },
+    "NODE_0000006": {
+      "branch_length": 0.03877381
+    },
+    "NODE_0000007": {
+      "branch_length": 0.0013447
+    },
+    "NODE_0000008": {
+      "branch_length": 0.00501831
+    },
+    "NODE_0000009": {
+      "branch_length": 0.00661493
+    },
+    "NODE_0000010": {
+      "branch_length": 0.00309043
+    },
+    "NODE_0000011": {
+      "branch_length": 0.00245636
+    },
+    "NODE_0000012": {
+      "branch_length": 0.01146178
+    },
+    "NODE_0000013": {
+      "branch_length": 0.00998189
+    },
+    "NODE_0000014": {
+      "branch_length": 0.00260627
+    },
+    "NODE_0000015": {
+      "branch_length": 0.00105921
+    },
+    "NODE_0000016": {
+      "branch_length": 0.00398739
+    },
+    "NODE_0000017": {
+      "branch_length": 0.01801254
+    },
+    "NODE_0000018": {
+      "branch_length": 0.00619871
+    },
+    "NODE_0000019": {
+      "branch_length": 0.01386932
+    },
+    "NODE_0000020": {
+      "branch_length": 0.00158774
+    },
+    "NODE_0000021": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000022": {
+      "branch_length": 0.00158879
+    },
+    "NODE_0000023": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000024": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000025": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000026": {
+      "branch_length": 0.00079392
+    },
+    "NODE_0000027": {
+      "branch_length": 0.00079329
+    },
+    "NODE_0000028": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000029": {
+      "branch_length": 0.00245742
+    },
+    "NODE_0000030": {
+      "branch_length": 0.00228998
+    },
+    "NODE_0000031": {
+      "branch_length": 0.00122937
+    },
+    "NODE_0000032": {
+      "branch_length": 0.00226479
+    },
+    "NODE_0000033": {
+      "branch_length": 0.00646213
+    },
+    "NODE_0000034": {
+      "branch_length": 0.00288101
+    },
+    "NODE_0000035": {
+      "branch_length": 0.00317973
+    },
+    "NODE_0000036": {
+      "branch_length": 0.00158376
+    },
+    "NODE_0000037": {
+      "branch_length": 0.00238153
+    },
+    "NODE_0000038": {
+      "branch_length": 0.00237851
+    },
+    "NODE_0000039": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000040": {
+      "branch_length": 0.00190352
+    },
+    "NODE_0000041": {
+      "branch_length": 2.53e-06
+    },
+    "NODE_0000042": {
+      "branch_length": 0.00153745
+    },
+    "NODE_0000043": {
+      "branch_length": 0.02013745
+    },
+    "NODE_0000044": {
+      "branch_length": 0.0008208
+    },
+    "NODE_0000045": {
+      "branch_length": 0.00318015
+    },
+    "NODE_0000046": {
+      "branch_length": 0.00156065
+    },
+    "NODE_0000047": {
+      "branch_length": 0.00180406
+    },
+    "NODE_0000048": {
+      "branch_length": 0.00318552
+    },
+    "NODE_0000049": {
+      "branch_length": 0.00092766
+    },
+    "NODE_0000050": {
+      "branch_length": 0.00545786
+    },
+    "NODE_0000051": {
+      "branch_length": 0.00238189
+    },
+    "NODE_0000052": {
+      "branch_length": 0.00073613
+    },
+    "NODE_0000053": {
+      "branch_length": 0.00243173
+    },
+    "NODE_0000054": {
+      "branch_length": 0.00804241
+    },
+    "NODE_0000055": {
+      "branch_length": 0.00333739
+    },
+    "NODE_0000056": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000057": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000058": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000059": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000060": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000061": {
+      "branch_length": 0.00079151
+    },
+    "NODE_0000062": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000063": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000064": {
+      "branch_length": 0.0
+    },
+    "NODE_0000065": {
+      "branch_length": 0.0
+    },
+    "NODE_0000066": {
+      "branch_length": 0.0
+    },
+    "NODE_0000067": {
+      "branch_length": 0.0
+    },
+    "NODE_0000068": {
+      "branch_length": 0.0
+    },
+    "NODE_0000069": {
+      "branch_length": 0.0
+    },
+    "NODE_0000070": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000071": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000072": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000073": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000074": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000075": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000076": {
+      "branch_length": 0.0007915
+    },
+    "NODE_0000077": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000078": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000079": {
+      "branch_length": 0.0
+    },
+    "NODE_0000080": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000081": {
+      "branch_length": 0.00079151
+    },
+    "NODE_0000082": {
+      "branch_length": 0.00079145
+    },
+    "NODE_0000083": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000084": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000085": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000086": {
+      "branch_length": 0.0007915
+    },
+    "NODE_0000087": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000088": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000089": {
+      "branch_length": 0.00158471
+    },
+    "NODE_0000090": {
+      "branch_length": 0.00158434
+    },
+    "NODE_0000091": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000092": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000093": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000094": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000095": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000096": {
+      "branch_length": 0.00158566
+    },
+    "NODE_0000097": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000098": {
+      "branch_length": 0.00079224
+    },
+    "NODE_0000099": {
+      "branch_length": 0.00158434
+    },
+    "NODE_0000100": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000101": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000102": {
+      "branch_length": 0.00079184
+    },
+    "NODE_0000103": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000104": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000105": {
+      "branch_length": 0.0
+    },
+    "NODE_0000106": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000107": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000108": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000109": {
+      "branch_length": 0.0
+    },
+    "NODE_0000110": {
+      "branch_length": 0.0
+    },
+    "NODE_0000111": {
+      "branch_length": 0.0
+    },
+    "NODE_0000112": {
+      "branch_length": 0.0
+    },
+    "NODE_0000113": {
+      "branch_length": 0.0
+    },
+    "NODE_0000114": {
+      "branch_length": 0.0
+    },
+    "NODE_0000115": {
+      "branch_length": 0.0
+    },
+    "NODE_0000116": {
+      "branch_length": 0.0
+    },
+    "NODE_0000117": {
+      "branch_length": 0.0
+    },
+    "NODE_0000118": {
+      "branch_length": 0.0
+    },
+    "NODE_0000119": {
+      "branch_length": 0.0
+    },
+    "NODE_0000120": {
+      "branch_length": 0.0
+    },
+    "NODE_0000121": {
+      "branch_length": 0.0
+    },
+    "NODE_0000122": {
+      "branch_length": 0.0
+    },
+    "NODE_0000123": {
+      "branch_length": 0.0
+    },
+    "NODE_0000124": {
+      "branch_length": 0.0
+    },
+    "NODE_0000125": {
+      "branch_length": 0.0
+    },
+    "NODE_0000126": {
+      "branch_length": 0.0
+    },
+    "NODE_0000127": {
+      "branch_length": 0.0
+    },
+    "NODE_0000128": {
+      "branch_length": 0.0
+    },
+    "NODE_0000129": {
+      "branch_length": 0.0
+    },
+    "NODE_0000130": {
+      "branch_length": 0.0
+    },
+    "NODE_0000131": {
+      "branch_length": 0.0
+    },
+    "NODE_0000132": {
+      "branch_length": 0.0
+    },
+    "NODE_0000133": {
+      "branch_length": 0.0
+    },
+    "NODE_0000134": {
+      "branch_length": 0.0
+    },
+    "NODE_0000135": {
+      "branch_length": 0.0
+    },
+    "NODE_0000136": {
+      "branch_length": 0.0
+    },
+    "NODE_0000137": {
+      "branch_length": 0.0
+    },
+    "NODE_0000138": {
+      "branch_length": 0.0
+    },
+    "NODE_0000139": {
+      "branch_length": 0.0
+    },
+    "NODE_0000140": {
+      "branch_length": 0.0
+    },
+    "NODE_0000141": {
+      "branch_length": 0.0
+    },
+    "NODE_0000142": {
+      "branch_length": 0.0
+    },
+    "NODE_0000143": {
+      "branch_length": 0.0
+    },
+    "NODE_0000144": {
+      "branch_length": 0.0
+    },
+    "NODE_0000145": {
+      "branch_length": 0.0
+    },
+    "NODE_0000146": {
+      "branch_length": 0.0
+    },
+    "NODE_0000147": {
+      "branch_length": 0.0
+    },
+    "NODE_0000148": {
+      "branch_length": 0.0
+    },
+    "NODE_0000149": {
+      "branch_length": 0.0
+    },
+    "NODE_0000150": {
+      "branch_length": 0.0
+    },
+    "NODE_0000151": {
+      "branch_length": 0.0
+    },
+    "NODE_0000152": {
+      "branch_length": 0.0
+    },
+    "NODE_0000153": {
+      "branch_length": 0.0
+    },
+    "NODE_0000154": {
+      "branch_length": 0.0
+    },
+    "NODE_0000155": {
+      "branch_length": 0.0
+    },
+    "NODE_0000156": {
+      "branch_length": 0.0
+    },
+    "NODE_0000157": {
+      "branch_length": 0.0
+    },
+    "NODE_0000158": {
+      "branch_length": 0.0
+    },
+    "NODE_0000159": {
+      "branch_length": 0.0
+    },
+    "NODE_0000160": {
+      "branch_length": 0.0
+    },
+    "NODE_0000161": {
+      "branch_length": 0.0
+    },
+    "NODE_0000162": {
+      "branch_length": 0.0
+    },
+    "NODE_0000163": {
+      "branch_length": 0.0
+    },
+    "NODE_0000164": {
+      "branch_length": 0.0
+    },
+    "NODE_0000165": {
+      "branch_length": 0.0
+    },
+    "NODE_0000166": {
+      "branch_length": 0.0
+    },
+    "NODE_0000167": {
+      "branch_length": 0.0
+    },
+    "NODE_0000168": {
+      "branch_length": 0.0
+    },
+    "NODE_0000169": {
+      "branch_length": 0.0
+    },
+    "NODE_0000170": {
+      "branch_length": 0.0
+    },
+    "NODE_0000171": {
+      "branch_length": 0.0
+    },
+    "NODE_0000172": {
+      "branch_length": 0.0
+    },
+    "NODE_0000173": {
+      "branch_length": 0.0
+    },
+    "NODE_0000174": {
+      "branch_length": 0.0
+    },
+    "NODE_0000175": {
+      "branch_length": 0.0
+    },
+    "NODE_0000176": {
+      "branch_length": 0.0
+    },
+    "NODE_0000177": {
+      "branch_length": 0.0
+    },
+    "NODE_0000178": {
+      "branch_length": 0.0
+    },
+    "NODE_0000179": {
+      "branch_length": 0.0
+    },
+    "NODE_0000180": {
+      "branch_length": 0.0
+    },
+    "NODE_0000181": {
+      "branch_length": 0.0
+    },
+    "NODE_0000182": {
+      "branch_length": 0.0
+    },
+    "NODE_0000183": {
+      "branch_length": 0.0
+    },
+    "NODE_0000184": {
+      "branch_length": 0.0
+    },
+    "NODE_0000185": {
+      "branch_length": 0.0
+    },
+    "NODE_0000186": {
+      "branch_length": 0.0
+    },
+    "NODE_0000187": {
+      "branch_length": 0.0
+    },
+    "NODE_0000188": {
+      "branch_length": 0.0
+    },
+    "NODE_0000189": {
+      "branch_length": 0.0
+    },
+    "NODE_0000190": {
+      "branch_length": 0.0
+    },
+    "NODE_0000191": {
+      "branch_length": 0.0
+    },
+    "NODE_0000192": {
+      "branch_length": 0.0
+    },
+    "NODE_0000193": {
+      "branch_length": 0.0
+    },
+    "NODE_0000194": {
+      "branch_length": 0.0
+    },
+    "NODE_0000195": {
+      "branch_length": 0.0
+    },
+    "NODE_0000196": {
+      "branch_length": 0.0
+    },
+    "NODE_0000197": {
+      "branch_length": 0.0
+    },
+    "NODE_0000198": {
+      "branch_length": 0.0
+    },
+    "NODE_0000199": {
+      "branch_length": 0.0
+    },
+    "NODE_0000200": {
+      "branch_length": 0.0
+    },
+    "NODE_0000201": {
+      "branch_length": 0.0
+    },
+    "NODE_0000202": {
+      "branch_length": 0.0
+    },
+    "NODE_0000203": {
+      "branch_length": 0.0
+    },
+    "NODE_0000204": {
+      "branch_length": 0.0
+    },
+    "NODE_0000205": {
+      "branch_length": 0.0
+    },
+    "NODE_0000206": {
+      "branch_length": 0.0
+    },
+    "NODE_0000207": {
+      "branch_length": 0.0
+    },
+    "NODE_0000208": {
+      "branch_length": 0.0
+    },
+    "NODE_0000209": {
+      "branch_length": 0.0
+    },
+    "NODE_0000210": {
+      "branch_length": 0.0
+    },
+    "NODE_0000211": {
+      "branch_length": 0.0
+    },
+    "NODE_0000212": {
+      "branch_length": 0.0
+    },
+    "NODE_0000213": {
+      "branch_length": 0.0
+    },
+    "NODE_0000214": {
+      "branch_length": 0.0
+    },
+    "NODE_0000215": {
+      "branch_length": 0.0
+    },
+    "NODE_0000216": {
+      "branch_length": 0.0
+    },
+    "NODE_0000217": {
+      "branch_length": 0.0
+    },
+    "NODE_0000218": {
+      "branch_length": 0.0
+    },
+    "NODE_0000219": {
+      "branch_length": 0.0
+    },
+    "NODE_0000220": {
+      "branch_length": 0.0
+    },
+    "NODE_0000221": {
+      "branch_length": 0.0
+    },
+    "NODE_0000222": {
+      "branch_length": 0.0
+    },
+    "NODE_0000223": {
+      "branch_length": 0.0
+    },
+    "NODE_0000224": {
+      "branch_length": 0.0
+    },
+    "NODE_0000225": {
+      "branch_length": 0.0
+    },
+    "NODE_0000226": {
+      "branch_length": 0.0
+    },
+    "NODE_0000227": {
+      "branch_length": 0.0
+    },
+    "NODE_0000228": {
+      "branch_length": 0.0
+    },
+    "NODE_0000229": {
+      "branch_length": 0.0
+    },
+    "NODE_0000230": {
+      "branch_length": 0.0
+    },
+    "NODE_0000231": {
+      "branch_length": 0.0
+    },
+    "NODE_0000232": {
+      "branch_length": 0.0
+    },
+    "NODE_0000233": {
+      "branch_length": 0.0
+    },
+    "NODE_0000234": {
+      "branch_length": 0.0
+    },
+    "NODE_0000235": {
+      "branch_length": 0.0
+    },
+    "NODE_0000236": {
+      "branch_length": 0.0
+    },
+    "NODE_0000237": {
+      "branch_length": 0.0
+    },
+    "NODE_0000238": {
+      "branch_length": 0.0
+    },
+    "NODE_0000239": {
+      "branch_length": 0.0
+    },
+    "NODE_0000240": {
+      "branch_length": 0.0
+    },
+    "NODE_0000241": {
+      "branch_length": 0.0
+    },
+    "NODE_0000242": {
+      "branch_length": 0.0
+    },
+    "NODE_0000243": {
+      "branch_length": 0.0
+    },
+    "NODE_0000244": {
+      "branch_length": 0.0
+    },
+    "NODE_0000245": {
+      "branch_length": 0.0
+    },
+    "NODE_0000246": {
+      "branch_length": 0.0
+    },
+    "NODE_0000247": {
+      "branch_length": 0.0
+    },
+    "NODE_0000248": {
+      "branch_length": 0.0
+    },
+    "NODE_0000249": {
+      "branch_length": 0.0
+    },
+    "NODE_0000250": {
+      "branch_length": 0.0
+    },
+    "NODE_0000251": {
+      "branch_length": 0.0
+    },
+    "NODE_0000252": {
+      "branch_length": 0.0
+    },
+    "NODE_0000253": {
+      "branch_length": 0.0
+    },
+    "NODE_0000254": {
+      "branch_length": 0.0
+    },
+    "NODE_0000255": {
+      "branch_length": 0.0
+    },
+    "NODE_0000256": {
+      "branch_length": 0.02879688
+    },
+    "NODE_0000257": {
+      "branch_length": 0.02975339
+    },
+    "NODE_0000258": {
+      "branch_length": 0.06850359
+    },
+    "NODE_0000259": {
+      "branch_length": 0.00079706
+    },
+    "NODE_0000260": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000261": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000262": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000263": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000264": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000265": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000266": {
+      "branch_length": 0.0
+    },
+    "NODE_0000267": {
+      "branch_length": 0.0
+    },
+    "NODE_0000268": {
+      "branch_length": 0.0
+    },
+    "NODE_0000269": {
+      "branch_length": 0.0
+    },
+    "NODE_0000270": {
+      "branch_length": 0.0
+    },
+    "NODE_0000271": {
+      "branch_length": 0.0
+    },
+    "NODE_0000272": {
+      "branch_length": 0.0
+    },
+    "NODE_0000273": {
+      "branch_length": 0.0
+    },
+    "NODE_0000274": {
+      "branch_length": 0.0
+    },
+    "NODE_0000275": {
+      "branch_length": 0.0
+    },
+    "NODE_0000276": {
+      "branch_length": 0.0
+    },
+    "NODE_0000277": {
+      "branch_length": 0.0
+    },
+    "NODE_0000278": {
+      "branch_length": 0.0
+    },
+    "NODE_0000279": {
+      "branch_length": 0.0
+    },
+    "NODE_0000280": {
+      "branch_length": 0.0
+    },
+    "NODE_0000281": {
+      "branch_length": 0.0
+    },
+    "NODE_0000282": {
+      "branch_length": 0.0
+    },
+    "NODE_0000283": {
+      "branch_length": 0.0
+    },
+    "NODE_0000284": {
+      "branch_length": 0.0
+    },
+    "NODE_0000285": {
+      "branch_length": 0.0
+    },
+    "NODE_0000286": {
+      "branch_length": 0.0
+    },
+    "NODE_0000287": {
+      "branch_length": 0.0
+    },
+    "NODE_0000288": {
+      "branch_length": 0.0
+    },
+    "NODE_0000289": {
+      "branch_length": 0.0
+    },
+    "NODE_0000290": {
+      "branch_length": 0.0
+    },
+    "NODE_0000291": {
+      "branch_length": 0.0
+    },
+    "NODE_0000292": {
+      "branch_length": 0.0
+    },
+    "NODE_0000293": {
+      "branch_length": 0.0
+    },
+    "NODE_0000294": {
+      "branch_length": 0.0
+    },
+    "NODE_0000295": {
+      "branch_length": 0.0
+    },
+    "NODE_0000296": {
+      "branch_length": 0.0
+    },
+    "NODE_0000297": {
+      "branch_length": 0.0
+    },
+    "NODE_0000298": {
+      "branch_length": 0.0
+    },
+    "NODE_0000299": {
+      "branch_length": 0.0
+    },
+    "NODE_0000300": {
+      "branch_length": 0.0
+    },
+    "NODE_0000301": {
+      "branch_length": 0.0
+    },
+    "NODE_0000302": {
+      "branch_length": 0.0
+    },
+    "NODE_0000303": {
+      "branch_length": 0.0
+    },
+    "NODE_0000304": {
+      "branch_length": 0.0
+    },
+    "NODE_0000305": {
+      "branch_length": 0.0
+    },
+    "NODE_0000306": {
+      "branch_length": 0.0
+    },
+    "NODE_0000307": {
+      "branch_length": 0.0
+    },
+    "NODE_0000308": {
+      "branch_length": 0.0
+    },
+    "NODE_0000309": {
+      "branch_length": 0.0
+    },
+    "NODE_0000310": {
+      "branch_length": 0.0
+    },
+    "NODE_0000311": {
+      "branch_length": 0.0
+    },
+    "NODE_0000312": {
+      "branch_length": 0.0
+    },
+    "NODE_0000313": {
+      "branch_length": 0.0
+    },
+    "NODE_0000314": {
+      "branch_length": 0.0
+    },
+    "NODE_0000315": {
+      "branch_length": 0.0
+    },
+    "NODE_0000316": {
+      "branch_length": 0.0
+    },
+    "NODE_0000317": {
+      "branch_length": 0.0
+    },
+    "NODE_0000318": {
+      "branch_length": 0.0
+    },
+    "NODE_0000319": {
+      "branch_length": 0.0
+    },
+    "NODE_0000320": {
+      "branch_length": 0.0
+    },
+    "NODE_0000321": {
+      "branch_length": 0.0
+    },
+    "NODE_0000322": {
+      "branch_length": 0.0
+    },
+    "NODE_0000323": {
+      "branch_length": 0.0
+    },
+    "NODE_0000324": {
+      "branch_length": 0.0
+    },
+    "NODE_0000325": {
+      "branch_length": 0.0
+    },
+    "NODE_0000326": {
+      "branch_length": 0.0
+    },
+    "NODE_0000327": {
+      "branch_length": 0.0
+    },
+    "NODE_0000328": {
+      "branch_length": 0.0
+    },
+    "NODE_0000329": {
+      "branch_length": 0.0
+    },
+    "NODE_0000330": {
+      "branch_length": 0.0
+    },
+    "NODE_0000331": {
+      "branch_length": 0.0
+    },
+    "NODE_0000332": {
+      "branch_length": 0.0
+    },
+    "NODE_0000333": {
+      "branch_length": 0.0
+    },
+    "NODE_0000334": {
+      "branch_length": 0.0
+    },
+    "NODE_0000335": {
+      "branch_length": 0.0
+    },
+    "NODE_0000336": {
+      "branch_length": 0.0
+    },
+    "NODE_0000337": {
+      "branch_length": 0.0
+    },
+    "NODE_0000338": {
+      "branch_length": 0.0
+    },
+    "NODE_0000339": {
+      "branch_length": 0.0
+    },
+    "NODE_0000340": {
+      "branch_length": 0.0
+    },
+    "NODE_0000341": {
+      "branch_length": 0.0
+    },
+    "NODE_0000342": {
+      "branch_length": 0.0
+    },
+    "NODE_0000343": {
+      "branch_length": 0.0
+    },
+    "NODE_0000344": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000345": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000346": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000347": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000348": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000349": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000350": {
+      "branch_length": 0.00079739
+    },
+    "NODE_0000351": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000352": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000353": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000354": {
+      "branch_length": 0.0007971
+    },
+    "NODE_0000355": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000356": {
+      "branch_length": 0.00079613
+    },
+    "NODE_0000357": {
+      "branch_length": 0.00159717
+    },
+    "NODE_0000358": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000359": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000360": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000361": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000362": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000363": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000364": {
+      "branch_length": 0.00159483
+    },
+    "NODE_0000365": {
+      "branch_length": 0.00079729
+    },
+    "NODE_0000366": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000367": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000368": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000369": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000370": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000371": {
+      "branch_length": 0.00079702
+    },
+    "NODE_0000372": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000373": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000374": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000375": {
+      "branch_length": 0.00079711
+    },
+    "NODE_0000376": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000377": {
+      "branch_length": 0.00159473
+    },
+    "NODE_0000378": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000379": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000380": {
+      "branch_length": 0.0
+    },
+    "NODE_0000381": {
+      "branch_length": 0.0
+    },
+    "NODE_0000382": {
+      "branch_length": 0.0
+    },
+    "NODE_0000383": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000384": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000385": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000386": {
+      "branch_length": 0.00079711
+    },
+    "NODE_0000387": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000388": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000389": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000390": {
+      "branch_length": 0.00079727
+    },
+    "NODE_0000391": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000392": {
+      "branch_length": 0.00079711
+    },
+    "NODE_0000393": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000394": {
+      "branch_length": 0.00079707
+    },
+    "NODE_0000395": {
+      "branch_length": 0.00079729
+    },
+    "NODE_0000396": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000397": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000398": {
+      "branch_length": 0.0
+    },
+    "NODE_0000399": {
+      "branch_length": 0.00079711
+    },
+    "NODE_0000400": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000401": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000402": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000403": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000404": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000405": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000406": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000407": {
+      "branch_length": 0.0
+    },
+    "NODE_0000408": {
+      "branch_length": 0.0
+    },
+    "NODE_0000409": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000410": {
+      "branch_length": 0.00079711
+    },
+    "NODE_0000411": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000412": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000413": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000414": {
+      "branch_length": 0.00239544
+    },
+    "NODE_0000415": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000416": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000417": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000418": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000419": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000420": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000421": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000422": {
+      "branch_length": 0.00079678
+    },
+    "NODE_0000423": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000424": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000425": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000426": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000427": {
+      "branch_length": 0.00079673
+    },
+    "NODE_0000428": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000429": {
+      "branch_length": 0.00079678
+    },
+    "NODE_0000430": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000431": {
+      "branch_length": 0.0
+    },
+    "NODE_0000432": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000433": {
+      "branch_length": 0.00319588
+    },
+    "NODE_0000434": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000435": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000436": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000437": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000438": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000439": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000440": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000441": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000442": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000443": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000444": {
+      "branch_length": 0.0
+    },
+    "NODE_0000445": {
+      "branch_length": 0.0
+    },
+    "NODE_0000446": {
+      "branch_length": 0.0
+    },
+    "NODE_0000447": {
+      "branch_length": 0.0
+    },
+    "NODE_0000448": {
+      "branch_length": 0.0
+    },
+    "NODE_0000449": {
+      "branch_length": 0.0
+    },
+    "NODE_0000450": {
+      "branch_length": 0.0
+    },
+    "NODE_0000451": {
+      "branch_length": 0.0
+    },
+    "NODE_0000452": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000453": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000454": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000455": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000456": {
+      "branch_length": 0.00079673
+    },
+    "NODE_0000457": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000458": {
+      "branch_length": 0.000797
+    },
+    "NODE_0000459": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000460": {
+      "branch_length": 0.0
+    },
+    "NODE_0000461": {
+      "branch_length": 0.000797
+    },
+    "NODE_0000462": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000463": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000464": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000465": {
+      "branch_length": 0.00079649
+    },
+    "NODE_0000466": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000467": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000468": {
+      "branch_length": 0.00079644
+    },
+    "NODE_0000469": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000470": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000471": {
+      "branch_length": 0.00159514
+    },
+    "NODE_0000472": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000473": {
+      "branch_length": 0.0
+    },
+    "NODE_0000474": {
+      "branch_length": 0.0
+    },
+    "NODE_0000475": {
+      "branch_length": 0.0
+    },
+    "NODE_0000476": {
+      "branch_length": 0.0
+    },
+    "NODE_0000477": {
+      "branch_length": 0.0
+    },
+    "NODE_0000478": {
+      "branch_length": 0.0
+    },
+    "NODE_0000479": {
+      "branch_length": 0.0
+    },
+    "NODE_0000480": {
+      "branch_length": 0.0
+    },
+    "NODE_0000481": {
+      "branch_length": 0.0
+    },
+    "NODE_0000482": {
+      "branch_length": 0.0
+    },
+    "NODE_0000483": {
+      "branch_length": 0.0
+    },
+    "NODE_0000484": {
+      "branch_length": 0.0
+    },
+    "NODE_0000485": {
+      "branch_length": 0.0
+    },
+    "NODE_0000486": {
+      "branch_length": 0.0
+    },
+    "NODE_0000487": {
+      "branch_length": 0.0
+    },
+    "NODE_0000488": {
+      "branch_length": 0.0
+    },
+    "NODE_0000489": {
+      "branch_length": 0.0
+    },
+    "NODE_0000490": {
+      "branch_length": 0.0
+    },
+    "NODE_0000491": {
+      "branch_length": 0.0
+    },
+    "NODE_0000492": {
+      "branch_length": 0.0
+    },
+    "NODE_0000493": {
+      "branch_length": 0.0
+    },
+    "NODE_0000494": {
+      "branch_length": 0.0
+    },
+    "NODE_0000495": {
+      "branch_length": 0.0
+    },
+    "NODE_0000496": {
+      "branch_length": 0.0
+    },
+    "NODE_0000497": {
+      "branch_length": 0.0
+    },
+    "NODE_0000498": {
+      "branch_length": 0.0
+    },
+    "NODE_0000499": {
+      "branch_length": 0.0
+    },
+    "NODE_0000500": {
+      "branch_length": 0.0
+    },
+    "NODE_0000501": {
+      "branch_length": 0.0
+    },
+    "NODE_0000502": {
+      "branch_length": 0.0
+    },
+    "NODE_0000503": {
+      "branch_length": 0.0
+    },
+    "NODE_0000504": {
+      "branch_length": 0.0
+    },
+    "NODE_0000505": {
+      "branch_length": 0.0
+    },
+    "NODE_0000506": {
+      "branch_length": 0.0
+    },
+    "NODE_0000507": {
+      "branch_length": 0.0
+    },
+    "NODE_0000508": {
+      "branch_length": 0.0
+    },
+    "NODE_0000509": {
+      "branch_length": 0.0
+    },
+    "NODE_0000510": {
+      "branch_length": 0.0
+    },
+    "NODE_0000511": {
+      "branch_length": 0.0
+    },
+    "NODE_0000512": {
+      "branch_length": 0.0
+    },
+    "NODE_0000513": {
+      "branch_length": 0.0
+    },
+    "NODE_0000514": {
+      "branch_length": 0.0
+    },
+    "NODE_0000515": {
+      "branch_length": 0.0
+    },
+    "NODE_0000516": {
+      "branch_length": 0.0
+    },
+    "NODE_0000517": {
+      "branch_length": 0.0
+    },
+    "NODE_0000518": {
+      "branch_length": 0.0
+    },
+    "NODE_0000519": {
+      "branch_length": 0.0
+    },
+    "NODE_0000520": {
+      "branch_length": 0.0
+    },
+    "NODE_0000521": {
+      "branch_length": 0.0
+    },
+    "NODE_0000522": {
+      "branch_length": 0.0
+    },
+    "NODE_0000523": {
+      "branch_length": 0.0
+    },
+    "NODE_0000524": {
+      "branch_length": 0.0
+    },
+    "NODE_0000525": {
+      "branch_length": 0.0
+    },
+    "NODE_0000526": {
+      "branch_length": 0.0
+    },
+    "NODE_0000527": {
+      "branch_length": 0.0
+    },
+    "NODE_0000528": {
+      "branch_length": 0.0
+    },
+    "NODE_0000529": {
+      "branch_length": 0.0
+    },
+    "NODE_0000530": {
+      "branch_length": 0.08496725
+    },
+    "NODE_0000531": {
+      "branch_length": 0.17409256
+    },
+    "NODE_0000532": {
+      "branch_length": 0.40944847
+    },
+    "NODE_0000533": {
+      "branch_length": 0.1205226
+    },
+    "NODE_0000534": {
+      "branch_length": 0.07233106
+    },
+    "NODE_0000535": {
+      "branch_length": 0.11102748
+    },
+    "NODE_0000536": {
+      "branch_length": 0.00067944
+    },
+    "NODE_0000537": {
+      "branch_length": 0.04807856
+    },
+    "NODE_0000538": {
+      "branch_length": 0.03468069
+    },
+    "NODE_0000539": {
+      "branch_length": 0.06769391
+    },
+    "NODE_0000540": {
+      "branch_length": 0.04606996
+    },
+    "NODE_0000541": {
+      "branch_length": 0.35929993
+    },
+    "NODE_0000542": {
+      "branch_length": 0.13713119
+    },
+    "NODE_0000543": {
+      "branch_length": 0.02690435
+    },
+    "NODE_0000544": {
+      "branch_length": 0.01887851
+    },
+    "NODE_0000545": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000546": {
+      "branch_length": 0.00726228
+    },
+    "NODE_0000547": {
+      "branch_length": 0.00894705
+    },
+    "NODE_0000548": {
+      "branch_length": 0.00075737
+    },
+    "NODE_0000549": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000550": {
+      "branch_length": 0.0
+    },
+    "NODE_0000551": {
+      "branch_length": 0.0
+    },
+    "NODE_0000552": {
+      "branch_length": 0.0
+    },
+    "NODE_0000553": {
+      "branch_length": 0.04003882
+    },
+    "NODE_0000554": {
+      "branch_length": 0.12404453
+    },
+    "NODE_0000555": {
+      "branch_length": 0.04153177
+    },
+    "NODE_0000556": {
+      "branch_length": 0.08568169
+    },
+    "NODE_0000557": {
+      "branch_length": 0.02778937
+    },
+    "NODE_0000558": {
+      "branch_length": 0.00887542
+    },
+    "NODE_0000559": {
+      "branch_length": 0.02534443
+    },
+    "NODE_0000560": {
+      "branch_length": 0.00845536
+    },
+    "NODE_0000561": {
+      "branch_length": 0.01759036
+    },
+    "NODE_0000562": {
+      "branch_length": 0.00079627
+    },
+    "NODE_0000563": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000564": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000565": {
+      "branch_length": 0.0
+    },
+    "NODE_0000566": {
+      "branch_length": 0.0
+    },
+    "NODE_0000567": {
+      "branch_length": 0.0
+    },
+    "NODE_0000568": {
+      "branch_length": 0.0
+    },
+    "NODE_0000569": {
+      "branch_length": 0.0
+    },
+    "NODE_0000570": {
+      "branch_length": 0.0
+    },
+    "NODE_0000571": {
+      "branch_length": 0.0
+    },
+    "NODE_0000572": {
+      "branch_length": 0.01893763
+    },
+    "NODE_0000573": {
+      "branch_length": 0.00531554
+    },
+    "NODE_0000574": {
+      "branch_length": 0.04413566
+    },
+    "NODE_0000575": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000576": {
+      "branch_length": 0.00549553
+    },
+    "NODE_0000577": {
+      "branch_length": 0.01473172
+    },
+    "NODE_0000578": {
+      "branch_length": 0.01249305
+    },
+    "NODE_0000579": {
+      "branch_length": 0.00646728
+    },
+    "NODE_0000580": {
+      "branch_length": 0.01876261
+    },
+    "NODE_0000581": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000582": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000583": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000584": {
+      "branch_length": 0.000738
+    },
+    "NODE_0000585": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000586": {
+      "branch_length": 0.03272583
+    },
+    "NODE_0000587": {
+      "branch_length": 0.03251902
+    },
+    "NODE_0000588": {
+      "branch_length": 0.05226257
+    },
+    "NODE_0000589": {
+      "branch_length": 0.21291702
+    },
+    "NODE_0000590": {
+      "branch_length": 0.03180636
+    },
+    "NODE_0000591": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000592": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000593": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000594": {
+      "branch_length": 0.00148193
+    },
+    "NODE_0000595": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000596": {
+      "branch_length": 0.00074024
+    },
+    "NODE_0000597": {
+      "branch_length": 0.0022231
+    },
+    "NODE_0000598": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000599": {
+      "branch_length": 0.0
+    },
+    "NODE_0000600": {
+      "branch_length": 0.0
+    },
+    "NODE_0000601": {
+      "branch_length": 0.0
+    },
+    "NODE_0000602": {
+      "branch_length": 0.02229083
+    },
+    "NODE_0000603": {
+      "branch_length": 0.00071594
+    },
+    "NODE_0000604": {
+      "branch_length": 0.00074218
+    },
+    "NODE_0000605": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000606": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000607": {
+      "branch_length": 0.000741
+    },
+    "NODE_0000608": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000609": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000610": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000611": {
+      "branch_length": 0.0
+    },
+    "NODE_0000612": {
+      "branch_length": 0.0
+    },
+    "NODE_0000613": {
+      "branch_length": 0.0
+    },
+    "NODE_0000614": {
+      "branch_length": 0.0
+    },
+    "NODE_0000615": {
+      "branch_length": 0.00157838
+    },
+    "NODE_0000616": {
+      "branch_length": 0.01200336
+    },
+    "NODE_0000617": {
+      "branch_length": 0.0008461
+    },
+    "NODE_0000618": {
+      "branch_length": 0.00137823
+    },
+    "NODE_0000619": {
+      "branch_length": 0.00222511
+    },
+    "NODE_0000620": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000621": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000622": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000623": {
+      "branch_length": 0.0
+    },
+    "NODE_0000624": {
+      "branch_length": 0.0
+    },
+    "NODE_0000625": {
+      "branch_length": 0.0
+    },
+    "NODE_0000626": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000627": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000628": {
+      "branch_length": 0.00074096
+    },
+    "NODE_0000629": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000630": {
+      "branch_length": 0.0007412
+    },
+    "NODE_0000631": {
+      "branch_length": 0.10013227
+    },
+    "NODE_0000632": {
+      "branch_length": 0.05206607
+    },
+    "NODE_0000633": {
+      "branch_length": 0.00332974
+    },
+    "NODE_0000634": {
+      "branch_length": 0.02659857
+    },
+    "NODE_0000635": {
+      "branch_length": 0.02536001
+    },
+    "NODE_0000636": {
+      "branch_length": 0.00128554
+    },
+    "NODE_0000637": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000638": {
+      "branch_length": 0.01486754
+    },
+    "NODE_0000639": {
+      "branch_length": 0.02509119
+    },
+    "NODE_0000640": {
+      "branch_length": 0.00415599
+    },
+    "NODE_0000641": {
+      "branch_length": 0.00664502
+    },
+    "NODE_0000642": {
+      "branch_length": 0.00233129
+    },
+    "NODE_0000643": {
+      "branch_length": 0.00527228
+    },
+    "NODE_0000644": {
+      "branch_length": 0.00372589
+    },
+    "NODE_0000645": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000646": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000647": {
+      "branch_length": 0.00978132
+    },
+    "NODE_0000648": {
+      "branch_length": 0.00074397
+    },
+    "NODE_0000649": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000650": {
+      "branch_length": 0.0
+    },
+    "NODE_0000651": {
+      "branch_length": 0.00438593
+    },
+    "NODE_0000652": {
+      "branch_length": 0.00820877
+    },
+    "NODE_0000653": {
+      "branch_length": 0.00115088
+    },
+    "NODE_0000654": {
+      "branch_length": 0.00208917
+    },
+    "NODE_0000655": {
+      "branch_length": 0.00152084
+    },
+    "NODE_0000656": {
+      "branch_length": 0.00074703
+    },
+    "NODE_0000657": {
+      "branch_length": 0.00904478
+    },
+    "NODE_0000658": {
+      "branch_length": 0.00146609
+    },
+    "NODE_0000659": {
+      "branch_length": 0.00602403
+    },
+    "NODE_0000660": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000661": {
+      "branch_length": 0.00190831
+    },
+    "NODE_0000662": {
+      "branch_length": 0.00288741
+    },
+    "NODE_0000663": {
+      "branch_length": 0.00107783
+    },
+    "NODE_0000664": {
+      "branch_length": 0.00224148
+    },
+    "NODE_0000665": {
+      "branch_length": 0.00197768
+    },
+    "NODE_0000666": {
+      "branch_length": 0.01497546
+    },
+    "NODE_0000667": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000668": {
+      "branch_length": 0.00159552
+    },
+    "NODE_0000669": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000670": {
+      "branch_length": 0.00224087
+    },
+    "NODE_0000671": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000672": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000673": {
+      "branch_length": 0.00196581
+    },
+    "NODE_0000674": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000675": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000676": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000677": {
+      "branch_length": 0.00074637
+    },
+    "NODE_0000678": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000679": {
+      "branch_length": 0.00074637
+    },
+    "NODE_0000680": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000681": {
+      "branch_length": 0.00074926
+    },
+    "NODE_0000682": {
+      "branch_length": 0.00073653
+    },
+    "NODE_0000683": {
+      "branch_length": 0.00754044
+    },
+    "NODE_0000684": {
+      "branch_length": 0.00225109
+    },
+    "NODE_0000685": {
+      "branch_length": 0.00074674
+    },
+    "NODE_0000686": {
+      "branch_length": 0.00074703
+    },
+    "NODE_0000687": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000688": {
+      "branch_length": 0.00298981
+    },
+    "NODE_0000689": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000690": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000691": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000692": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000693": {
+      "branch_length": 0.00074633
+    },
+    "NODE_0000694": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000695": {
+      "branch_length": 0.00149437
+    },
+    "NODE_0000696": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000697": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000698": {
+      "branch_length": 0.00074659
+    },
+    "NODE_0000699": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000700": {
+      "branch_length": 2.46e-06
+    },
+    "NODE_0000701": {
+      "branch_length": 0.000744
+    },
+    "NODE_0000702": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000703": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000704": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000705": {
+      "branch_length": 0.01020461
+    },
+    "NODE_0000706": {
+      "branch_length": 0.00377646
+    },
+    "NODE_0000707": {
+      "branch_length": 0.00074421
+    },
+    "NODE_0000708": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000709": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000710": {
+      "branch_length": 0.00074629
+    },
+    "NODE_0000711": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000712": {
+      "branch_length": 0.00149659
+    },
+    "NODE_0000713": {
+      "branch_length": 0.00074608
+    },
+    "NODE_0000714": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000715": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000716": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000717": {
+      "branch_length": 0.00074633
+    },
+    "NODE_0000718": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000719": {
+      "branch_length": 0.0
+    },
+    "NODE_0000720": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000721": {
+      "branch_length": 0.00074609
+    },
+    "NODE_0000722": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000723": {
+      "branch_length": 0.00074613
+    },
+    "NODE_0000724": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000725": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000726": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000727": {
+      "branch_length": 0.00074638
+    },
+    "NODE_0000728": {
+      "branch_length": 0.00074449
+    },
+    "NODE_0000729": {
+      "branch_length": 0.00223983
+    },
+    "NODE_0000730": {
+      "branch_length": 0.00074588
+    },
+    "NODE_0000731": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000732": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000733": {
+      "branch_length": 0.00074586
+    },
+    "NODE_0000734": {
+      "branch_length": 0.00149433
+    },
+    "NODE_0000735": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000736": {
+      "branch_length": 0.00074584
+    },
+    "NODE_0000737": {
+      "branch_length": 0.00522877
+    },
+    "NODE_0000738": {
+      "branch_length": 0.00298842
+    },
+    "NODE_0000739": {
+      "branch_length": 0.00149277
+    },
+    "NODE_0000740": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000741": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000742": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000743": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000744": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000745": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000746": {
+      "branch_length": 0.00074612
+    },
+    "NODE_0000747": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000748": {
+      "branch_length": 2.24e-06
+    },
+    "NODE_0000749": {
+      "branch_length": 0.00074656
+    },
+    "NODE_0000750": {
+      "branch_length": 0.00449228
+    },
+    "NODE_0000751": {
+      "branch_length": 3e-06
+    },
+    "NODE_0000752": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000753": {
+      "branch_length": 0.00149759
+    },
+    "NODE_0000754": {
+      "branch_length": 0.00224091
+    },
+    "NODE_0000755": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000756": {
+      "branch_length": 0.0007466
+    },
+    "NODE_0000757": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000758": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000759": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000760": {
+      "branch_length": 0.00224045
+    },
+    "NODE_0000761": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000762": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000763": {
+      "branch_length": 0.00074634
+    },
+    "NODE_0000764": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000765": {
+      "branch_length": 0.00149292
+    },
+    "NODE_0000766": {
+      "branch_length": 0.00074787
+    },
+    "NODE_0000767": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000768": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000769": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000770": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000771": {
+      "branch_length": 0.00074774
+    },
+    "NODE_0000772": {
+      "branch_length": 0.00149705
+    },
+    "NODE_0000773": {
+      "branch_length": 0.00224691
+    },
+    "NODE_0000774": {
+      "branch_length": 0.0007424
+    },
+    "NODE_0000775": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000776": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000777": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000778": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000779": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000780": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000781": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000782": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000783": {
+      "branch_length": 0.00074611
+    },
+    "NODE_0000784": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000785": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000786": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000787": {
+      "branch_length": 0.0
+    },
+    "NODE_0000788": {
+      "branch_length": 0.0
+    },
+    "NODE_0000789": {
+      "branch_length": 0.0
+    },
+    "NODE_0000790": {
+      "branch_length": 0.0
+    },
+    "NODE_0000791": {
+      "branch_length": 0.0
+    },
+    "NODE_0000792": {
+      "branch_length": 0.0
+    },
+    "NODE_0000793": {
+      "branch_length": 0.0
+    },
+    "NODE_0000794": {
+      "branch_length": 0.0
+    },
+    "NODE_0000795": {
+      "branch_length": 0.0
+    },
+    "NODE_0000796": {
+      "branch_length": 0.0
+    },
+    "NODE_0000797": {
+      "branch_length": 0.0
+    },
+    "NODE_0000798": {
+      "branch_length": 0.0
+    },
+    "NODE_0000799": {
+      "branch_length": 0.0
+    },
+    "NODE_0000800": {
+      "branch_length": 0.0
+    },
+    "NODE_0000801": {
+      "branch_length": 0.0
+    },
+    "NODE_0000802": {
+      "branch_length": 0.0
+    },
+    "NODE_0000803": {
+      "branch_length": 0.0
+    },
+    "NODE_0000804": {
+      "branch_length": 0.0
+    },
+    "NODE_0000805": {
+      "branch_length": 0.0
+    },
+    "NODE_0000806": {
+      "branch_length": 0.0
+    },
+    "NODE_0000807": {
+      "branch_length": 0.0
+    },
+    "NODE_0000808": {
+      "branch_length": 0.0
+    },
+    "NODE_0000809": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000810": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000811": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000812": {
+      "branch_length": 0.00298881
+    },
+    "NODE_0000813": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000814": {
+      "branch_length": 0.0
+    },
+    "NODE_0000815": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000816": {
+      "branch_length": 0.0007462
+    },
+    "NODE_0000817": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000818": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000819": {
+      "branch_length": 0.00074612
+    },
+    "NODE_0000820": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000821": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000822": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000823": {
+      "branch_length": 0.0
+    },
+    "NODE_0000824": {
+      "branch_length": 0.0
+    },
+    "NODE_0000825": {
+      "branch_length": 0.0
+    },
+    "NODE_0000826": {
+      "branch_length": 0.0
+    },
+    "NODE_0000827": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000828": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000829": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000830": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000831": {
+      "branch_length": 0.00074615
+    },
+    "NODE_0000832": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000833": {
+      "branch_length": 0.00224062
+    },
+    "NODE_0000834": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000835": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000836": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000837": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000838": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000839": {
+      "branch_length": 0.0
+    },
+    "NODE_0000840": {
+      "branch_length": 0.0
+    },
+    "NODE_0000841": {
+      "branch_length": 0.0
+    },
+    "NODE_0000842": {
+      "branch_length": 0.0
+    },
+    "NODE_0000843": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000844": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000845": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000846": {
+      "branch_length": 0.00074599
+    },
+    "NODE_0000847": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000848": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000849": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000850": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000851": {
+      "branch_length": 0.00074623
+    },
+    "NODE_0000852": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000853": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000854": {
+      "branch_length": 0.0
+    },
+    "NODE_0000855": {
+      "branch_length": 0.0
+    },
+    "NODE_0000856": {
+      "branch_length": 0.0
+    },
+    "NODE_0000857": {
+      "branch_length": 0.0
+    },
+    "NODE_0000858": {
+      "branch_length": 0.0
+    },
+    "NODE_0000859": {
+      "branch_length": 0.0
+    },
+    "NODE_0000860": {
+      "branch_length": 0.0
+    },
+    "NODE_0000861": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000862": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000863": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000864": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000865": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000866": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000867": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000868": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000869": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000870": {
+      "branch_length": 0.00074578
+    },
+    "NODE_0000871": {
+      "branch_length": 0.00074617
+    },
+    "NODE_0000872": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000873": {
+      "branch_length": 0.00074562
+    },
+    "NODE_0000874": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000875": {
+      "branch_length": 0.0
+    },
+    "NODE_0000876": {
+      "branch_length": 0.0
+    },
+    "NODE_0000877": {
+      "branch_length": 0.0
+    },
+    "NODE_0000878": {
+      "branch_length": 0.21608033
+    },
+    "NODE_0000879": {
+      "branch_length": 0.21556159
+    },
+    "NODE_0000880": {
+      "branch_length": 0.01226894
+    },
+    "NODE_0000881": {
+      "branch_length": 0.05222774
+    },
+    "NODE_0000882": {
+      "branch_length": 0.07473596
+    },
+    "NODE_0000883": {
+      "branch_length": 0.17557381
+    },
+    "NODE_0000884": {
+      "branch_length": 0.00747363
+    },
+    "NODE_0000885": {
+      "branch_length": 0.00605957
+    },
+    "NODE_0000886": {
+      "branch_length": 0.0191448
+    },
+    "NODE_0000887": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000888": {
+      "branch_length": 0.13826389
+    },
+    "NODE_0000889": {
+      "branch_length": 0.00577948
+    },
+    "NODE_0000890": {
+      "branch_length": 0.00911379
+    },
+    "NODE_0000891": {
+      "branch_length": 0.00233613
+    },
+    "NODE_0000892": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000893": {
+      "branch_length": 0.0
+    },
+    "NODE_0000894": {
+      "branch_length": 0.06238708
+    },
+    "NODE_0000895": {
+      "branch_length": 0.0526632
+    },
+    "NODE_0000896": {
+      "branch_length": 0.02261301
+    },
+    "NODE_0000897": {
+      "branch_length": 0.13790685
+    },
+    "NODE_0000898": {
+      "branch_length": 0.0573141
+    },
+    "NODE_0000899": {
+      "branch_length": 0.06985187
+    },
+    "NODE_0000900": {
+      "branch_length": 0.06255994
+    },
+    "NODE_0000901": {
+      "branch_length": 0.00206299
+    },
+    "NODE_0000902": {
+      "branch_length": 0.00241057
+    },
+    "NODE_0000903": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000904": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000905": {
+      "branch_length": 0.00402111
+    },
+    "NODE_0000906": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000907": {
+      "branch_length": 0.0
+    },
+    "NODE_0000908": {
+      "branch_length": 0.0
+    },
+    "NODE_0000909": {
+      "branch_length": 0.0
+    },
+    "NODE_0000910": {
+      "branch_length": 0.0
+    },
+    "NODE_0000911": {
+      "branch_length": 0.00080317
+    },
+    "NODE_0000912": {
+      "branch_length": 0.00080342
+    },
+    "NODE_0000913": {
+      "branch_length": 0.00160743
+    },
+    "NODE_0000914": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000915": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000916": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000917": {
+      "branch_length": 0.00322537
+    },
+    "NODE_0000918": {
+      "branch_length": 0.00322217
+    },
+    "NODE_0000919": {
+      "branch_length": 0.00079856
+    },
+    "NODE_0000920": {
+      "branch_length": 0.00160672
+    },
+    "NODE_0000921": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000922": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000923": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000924": {
+      "branch_length": 0.0
+    },
+    "NODE_0000925": {
+      "branch_length": 0.00080318
+    },
+    "NODE_0000926": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000927": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000928": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000929": {
+      "branch_length": 0.00080319
+    },
+    "NODE_0000930": {
+      "branch_length": 0.00080319
+    },
+    "NODE_0000931": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000932": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000933": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000934": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000935": {
+      "branch_length": 0.00080328
+    },
+    "NODE_0000936": {
+      "branch_length": 0.00080329
+    },
+    "NODE_0000937": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000938": {
+      "branch_length": 0.0
+    },
+    "NODE_0000939": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000940": {
+      "branch_length": 0.0
+    },
+    "NODE_0000941": {
+      "branch_length": 0.0
+    },
+    "NODE_0000942": {
+      "branch_length": 0.0
+    },
+    "NODE_0000943": {
+      "branch_length": 0.0
+    },
+    "NODE_0000944": {
+      "branch_length": 0.0
+    },
+    "NODE_0000945": {
+      "branch_length": 0.0
+    },
+    "NODE_0000946": {
+      "branch_length": 0.0
+    },
+    "NODE_0000947": {
+      "branch_length": 0.0
+    },
+    "NODE_0000948": {
+      "branch_length": 0.0
+    },
+    "NODE_0000949": {
+      "branch_length": 0.0
+    },
+    "NODE_0000950": {
+      "branch_length": 0.0
+    },
+    "NODE_0000951": {
+      "branch_length": 0.0
+    },
+    "NODE_0000952": {
+      "branch_length": 0.0
+    },
+    "NODE_0000953": {
+      "branch_length": 0.0
+    },
+    "NODE_0000954": {
+      "branch_length": 0.0
+    },
+    "NODE_0000955": {
+      "branch_length": 0.0
+    },
+    "NODE_0000956": {
+      "branch_length": 0.0
+    },
+    "NODE_0000957": {
+      "branch_length": 0.0
+    },
+    "NODE_0000958": {
+      "branch_length": 0.0
+    },
+    "NODE_0000959": {
+      "branch_length": 0.0
+    },
+    "NODE_0000960": {
+      "branch_length": 0.0
+    },
+    "NODE_0000961": {
+      "branch_length": 0.0
+    },
+    "NODE_0000962": {
+      "branch_length": 0.0
+    },
+    "NODE_0000963": {
+      "branch_length": 0.0
+    },
+    "NODE_0000964": {
+      "branch_length": 0.0
+    },
+    "NODE_0000965": {
+      "branch_length": 0.0
+    },
+    "NODE_0000966": {
+      "branch_length": 0.0
+    },
+    "NODE_0000967": {
+      "branch_length": 0.0
+    },
+    "NODE_0000968": {
+      "branch_length": 0.0
+    },
+    "NODE_0000969": {
+      "branch_length": 0.0
+    },
+    "NODE_0000970": {
+      "branch_length": 0.0
+    },
+    "NODE_0000971": {
+      "branch_length": 0.0
+    },
+    "NODE_0000972": {
+      "branch_length": 0.0
+    },
+    "NODE_0000973": {
+      "branch_length": 0.0
+    },
+    "NODE_0000974": {
+      "branch_length": 0.0
+    },
+    "NODE_0000975": {
+      "branch_length": 0.0
+    },
+    "NODE_0000976": {
+      "branch_length": 0.0
+    },
+    "NODE_0000977": {
+      "branch_length": 0.0
+    },
+    "NODE_0000978": {
+      "branch_length": 0.0
+    },
+    "NODE_0000979": {
+      "branch_length": 0.0
+    },
+    "NODE_0000980": {
+      "branch_length": 0.0
+    },
+    "NODE_0000981": {
+      "branch_length": 0.0
+    },
+    "NODE_0000982": {
+      "branch_length": 0.0
+    },
+    "NODE_0000983": {
+      "branch_length": 0.0
+    },
+    "NODE_0000984": {
+      "branch_length": 0.0
+    },
+    "NODE_0000985": {
+      "branch_length": 0.0
+    },
+    "NODE_0000986": {
+      "branch_length": 0.0
+    },
+    "NODE_0000987": {
+      "branch_length": 0.0
+    },
+    "NODE_0000988": {
+      "branch_length": 0.0
+    },
+    "NODE_0000989": {
+      "branch_length": 0.0
+    },
+    "NODE_0000990": {
+      "branch_length": 0.0
+    },
+    "NODE_0000991": {
+      "branch_length": 0.0
+    },
+    "NODE_0000992": {
+      "branch_length": 0.0
+    },
+    "NODE_0000993": {
+      "branch_length": 0.0
+    },
+    "NODE_0000994": {
+      "branch_length": 0.0
+    },
+    "NODE_0000995": {
+      "branch_length": 0.0
+    },
+    "NODE_0000996": {
+      "branch_length": 0.0
+    },
+    "NODE_0000997": {
+      "branch_length": 0.0
+    },
+    "NODE_0000998": {
+      "branch_length": 0.0
+    },
+    "NODE_0000999": {
+      "branch_length": 0.0
+    },
+    "NODE_0001000": {
+      "branch_length": 0.0
+    },
+    "NODE_0001001": {
+      "branch_length": 0.0
+    },
+    "NODE_0001002": {
+      "branch_length": 0.0
+    },
+    "NODE_0001003": {
+      "branch_length": 0.0
+    },
+    "NODE_0001004": {
+      "branch_length": 0.0
+    },
+    "NODE_0001005": {
+      "branch_length": 0.0
+    },
+    "NODE_0001006": {
+      "branch_length": 0.0
+    },
+    "NODE_0001007": {
+      "branch_length": 0.0
+    },
+    "NODE_0001008": {
+      "branch_length": 0.0
+    },
+    "NODE_0001009": {
+      "branch_length": 0.0
+    },
+    "NODE_0001010": {
+      "branch_length": 0.0
+    },
+    "NODE_0001011": {
+      "branch_length": 0.0
+    },
+    "NODE_0001012": {
+      "branch_length": 0.0
+    },
+    "NODE_0001013": {
+      "branch_length": 0.0
+    },
+    "NODE_0001014": {
+      "branch_length": 0.0
+    },
+    "NODE_0001015": {
+      "branch_length": 0.0
+    },
+    "NODE_0001016": {
+      "branch_length": 0.0
+    },
+    "NODE_0001017": {
+      "branch_length": 0.0
+    },
+    "NODE_0001018": {
+      "branch_length": 0.0
+    },
+    "NODE_0001019": {
+      "branch_length": 0.0
+    },
+    "NODE_0001020": {
+      "branch_length": 0.0
+    },
+    "NODE_0001021": {
+      "branch_length": 0.0
+    },
+    "NODE_0001022": {
+      "branch_length": 0.0
+    },
+    "NODE_0001023": {
+      "branch_length": 0.0
+    },
+    "NODE_0001024": {
+      "branch_length": 0.0
+    },
+    "NODE_0001025": {
+      "branch_length": 0.0
+    },
+    "NODE_0001026": {
+      "branch_length": 0.0
+    },
+    "NODE_0001027": {
+      "branch_length": 0.0
+    },
+    "NODE_0001028": {
+      "branch_length": 0.0
+    },
+    "NODE_0001029": {
+      "branch_length": 0.0
+    },
+    "NODE_0001030": {
+      "branch_length": 0.0
+    },
+    "NODE_0001031": {
+      "branch_length": 0.0
+    },
+    "NODE_0001032": {
+      "branch_length": 0.0
+    },
+    "NODE_0001033": {
+      "branch_length": 0.0
+    },
+    "NODE_0001034": {
+      "branch_length": 0.0
+    },
+    "NODE_0001035": {
+      "branch_length": 0.0
+    },
+    "NODE_0001036": {
+      "branch_length": 0.0
+    },
+    "NODE_0001037": {
+      "branch_length": 0.0
+    },
+    "NODE_0001038": {
+      "branch_length": 0.0
+    },
+    "NODE_0001039": {
+      "branch_length": 0.0
+    },
+    "NODE_0001040": {
+      "branch_length": 0.0
+    },
+    "NODE_0001041": {
+      "branch_length": 0.0
+    },
+    "NODE_0001042": {
+      "branch_length": 0.0
+    },
+    "NODE_0001043": {
+      "branch_length": 0.0
+    },
+    "NODE_0001044": {
+      "branch_length": 0.0
+    },
+    "NODE_0001045": {
+      "branch_length": 0.0
+    },
+    "NODE_0001046": {
+      "branch_length": 0.0
+    },
+    "NODE_0001047": {
+      "branch_length": 0.0
+    },
+    "NODE_0001048": {
+      "branch_length": 0.0
+    },
+    "NODE_0001049": {
+      "branch_length": 0.0
+    },
+    "NODE_0001050": {
+      "branch_length": 0.0
+    },
+    "NODE_0001051": {
+      "branch_length": 0.0
+    },
+    "NODE_0001052": {
+      "branch_length": 0.0
+    },
+    "NODE_0001053": {
+      "branch_length": 0.0
+    },
+    "NODE_0001054": {
+      "branch_length": 0.0
+    },
+    "NODE_0001055": {
+      "branch_length": 0.0
+    },
+    "NODE_0001056": {
+      "branch_length": 0.0
+    },
+    "NODE_0001057": {
+      "branch_length": 0.0
+    },
+    "NODE_0001058": {
+      "branch_length": 0.0
+    },
+    "NODE_0001059": {
+      "branch_length": 0.0
+    },
+    "NODE_0001060": {
+      "branch_length": 0.0
+    },
+    "NODE_0001061": {
+      "branch_length": 0.0
+    },
+    "NODE_0001062": {
+      "branch_length": 0.0
+    },
+    "NODE_0001063": {
+      "branch_length": 0.0
+    },
+    "NODE_0001064": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001065": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001066": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001067": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001068": {
+      "branch_length": 0.00080363
+    },
+    "NODE_0001069": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001070": {
+      "branch_length": 0.0
+    },
+    "NODE_0001071": {
+      "branch_length": 0.00080347
+    },
+    "NODE_0001072": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001073": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001074": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001075": {
+      "branch_length": 0.0
+    },
+    "NODE_0001076": {
+      "branch_length": 0.0
+    },
+    "NODE_0001077": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001078": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001079": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001080": {
+      "branch_length": 0.00080363
+    },
+    "NODE_0001081": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001082": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001083": {
+      "branch_length": 0.00080347
+    },
+    "NODE_0001084": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001085": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001086": {
+      "branch_length": 0.00080319
+    },
+    "NODE_0001087": {
+      "branch_length": 0.00160755
+    },
+    "NODE_0001088": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001089": {
+      "branch_length": 0.0008031
+    },
+    "NODE_0001090": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001091": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001092": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001093": {
+      "branch_length": 0.00080294
+    },
+    "NODE_0001094": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001095": {
+      "branch_length": 0.0
+    },
+    "NODE_0001096": {
+      "branch_length": 0.0
+    },
+    "NODE_0001097": {
+      "branch_length": 0.0
+    },
+    "NODE_0001098": {
+      "branch_length": 0.0
+    },
+    "NODE_0001099": {
+      "branch_length": 0.0
+    },
+    "NODE_0001100": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001101": {
+      "branch_length": 0.0
+    },
+    "NODE_0001102": {
+      "branch_length": 0.0
+    },
+    "NODE_0001103": {
+      "branch_length": 0.0
+    },
+    "NODE_0001104": {
+      "branch_length": 0.0
+    },
+    "NODE_0001105": {
+      "branch_length": 0.0
+    },
+    "NODE_0001106": {
+      "branch_length": 0.0
+    },
+    "NODE_0001107": {
+      "branch_length": 0.0
+    },
+    "NODE_0001108": {
+      "branch_length": 0.0
+    },
+    "NODE_0001109": {
+      "branch_length": 0.0
+    },
+    "NODE_0001110": {
+      "branch_length": 0.0
+    },
+    "NODE_0001111": {
+      "branch_length": 0.0
+    },
+    "NODE_0001112": {
+      "branch_length": 0.0
+    },
+    "NODE_0001113": {
+      "branch_length": 0.0
+    },
+    "NODE_0001114": {
+      "branch_length": 0.0
+    },
+    "NODE_0001115": {
+      "branch_length": 0.0
+    },
+    "NODE_0001116": {
+      "branch_length": 0.0
+    },
+    "NODE_0001117": {
+      "branch_length": 0.0
+    },
+    "NODE_0001118": {
+      "branch_length": 0.0
+    },
+    "NODE_0001119": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001120": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001121": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001122": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001123": {
+      "branch_length": 0.00080347
+    },
+    "NODE_0001124": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001125": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001126": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001127": {
+      "branch_length": 0.00080318
+    },
+    "NODE_0001128": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001129": {
+      "branch_length": 0.0
+    },
+    "NODE_0001130": {
+      "branch_length": 0.0
+    },
+    "NODE_0001131": {
+      "branch_length": 0.0
+    },
+    "NODE_0001132": {
+      "branch_length": 0.0
+    },
+    "NODE_0001133": {
+      "branch_length": 0.0
+    },
+    "NODE_0001134": {
+      "branch_length": 0.00080334
+    },
+    "NODE_0001135": {
+      "branch_length": 0.00080335
+    },
+    "NODE_0001136": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001137": {
+      "branch_length": 0.0008034
+    },
+    "NODE_0001138": {
+      "branch_length": 0.00080304
+    },
+    "NODE_0001139": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001140": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001141": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001142": {
+      "branch_length": 0.0
+    },
+    "NODE_0001143": {
+      "branch_length": 0.0
+    },
+    "NODE_0001144": {
+      "branch_length": 0.0
+    },
+    "NODE_0001145": {
+      "branch_length": 0.0
+    },
+    "NODE_0001146": {
+      "branch_length": 0.0
+    },
+    "NODE_0001147": {
+      "branch_length": 0.0
+    },
+    "NODE_0001148": {
+      "branch_length": 0.0
+    },
+    "NODE_0001149": {
+      "branch_length": 0.0
+    },
+    "NODE_0001150": {
+      "branch_length": 0.0
+    },
+    "NODE_0001151": {
+      "branch_length": 0.0
+    },
+    "NODE_0001152": {
+      "branch_length": 0.0
+    },
+    "NODE_0001153": {
+      "branch_length": 0.0
+    },
+    "NODE_0001154": {
+      "branch_length": 0.0
+    },
+    "NODE_0001155": {
+      "branch_length": 0.0
+    },
+    "NODE_0001156": {
+      "branch_length": 0.000803
+    },
+    "NODE_0001157": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001158": {
+      "branch_length": 0.0
+    },
+    "NODE_0001159": {
+      "branch_length": 0.0
+    },
+    "NODE_0001160": {
+      "branch_length": 0.0
+    },
+    "NODE_0001161": {
+      "branch_length": 0.0
+    },
+    "NODE_0001162": {
+      "branch_length": 0.0
+    },
+    "NODE_0001163": {
+      "branch_length": 0.0
+    },
+    "NODE_0001164": {
+      "branch_length": 0.0
+    },
+    "NODE_0001165": {
+      "branch_length": 0.0
+    },
+    "NODE_0001166": {
+      "branch_length": 0.0
+    },
+    "NODE_0001167": {
+      "branch_length": 0.0
+    },
+    "NODE_0001168": {
+      "branch_length": 0.0
+    },
+    "NODE_0001169": {
+      "branch_length": 0.0
+    },
+    "NODE_0001170": {
+      "branch_length": 0.0
+    },
+    "NODE_0001171": {
+      "branch_length": 0.0
+    },
+    "NODE_0001172": {
+      "branch_length": 0.0
+    },
+    "NODE_0001173": {
+      "branch_length": 0.0
+    },
+    "NODE_0001174": {
+      "branch_length": 0.0
+    },
+    "NODE_0001175": {
+      "branch_length": 0.0
+    },
+    "NODE_0001176": {
+      "branch_length": 0.0
+    },
+    "NODE_0001177": {
+      "branch_length": 0.0
+    },
+    "NODE_0001178": {
+      "branch_length": 0.0
+    },
+    "NODE_0001179": {
+      "branch_length": 0.0
+    },
+    "NODE_0001180": {
+      "branch_length": 0.0
+    },
+    "NODE_0001181": {
+      "branch_length": 0.0
+    },
+    "NODE_0001182": {
+      "branch_length": 0.0
+    },
+    "NODE_0001183": {
+      "branch_length": 0.0
+    },
+    "NODE_0001184": {
+      "branch_length": 0.0
+    },
+    "NODE_0001185": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001186": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001187": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001188": {
+      "branch_length": 0.00080319
+    },
+    "NODE_0001189": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001190": {
+      "branch_length": 0.0
+    },
+    "NODE_0001191": {
+      "branch_length": 0.0
+    },
+    "NODE_0001192": {
+      "branch_length": 0.0
+    },
+    "NODE_0001193": {
+      "branch_length": 0.0
+    },
+    "NODE_0001194": {
+      "branch_length": 0.0
+    },
+    "NODE_0001195": {
+      "branch_length": 0.0
+    },
+    "NODE_0001196": {
+      "branch_length": 0.00241347
+    },
+    "NODE_0001197": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001198": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001199": {
+      "branch_length": 0.0
+    },
+    "NODE_0001200": {
+      "branch_length": 0.0
+    },
+    "NODE_0001201": {
+      "branch_length": 0.0
+    },
+    "NODE_0001202": {
+      "branch_length": 0.0
+    },
+    "NODE_0001203": {
+      "branch_length": 0.0
+    },
+    "NODE_0001204": {
+      "branch_length": 0.0
+    },
+    "NODE_0001205": {
+      "branch_length": 0.0
+    },
+    "NODE_0001206": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001207": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001208": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001209": {
+      "branch_length": 0.00080339
+    },
+    "NODE_0001210": {
+      "branch_length": 0.00080339
+    },
+    "NODE_0001211": {
+      "branch_length": 0.00080395
+    },
+    "NODE_0001212": {
+      "branch_length": 0.00080368
+    },
+    "NODE_0001213": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001214": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001215": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001216": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001217": {
+      "branch_length": 0.0008034
+    },
+    "NODE_0001218": {
+      "branch_length": 0.00080304
+    },
+    "NODE_0001219": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001220": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001221": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001222": {
+      "branch_length": 0.00080304
+    },
+    "NODE_0001223": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001224": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001225": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001226": {
+      "branch_length": 0.00080327
+    },
+    "NODE_0001227": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001228": {
+      "branch_length": 0.0
+    },
+    "NODE_0001229": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001230": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001231": {
+      "branch_length": 0.00160668
+    },
+    "NODE_0001232": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001233": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001234": {
+      "branch_length": 0.0
+    },
+    "NODE_0001235": {
+      "branch_length": 0.0
+    },
+    "NODE_0001236": {
+      "branch_length": 0.0
+    },
+    "NODE_0001237": {
+      "branch_length": 0.0
+    },
+    "NODE_0001238": {
+      "branch_length": 0.0
+    },
+    "NODE_0001239": {
+      "branch_length": 0.0
+    },
+    "NODE_0001240": {
+      "branch_length": 0.0
+    },
+    "NODE_0001241": {
+      "branch_length": 0.0
+    },
+    "NODE_0001242": {
+      "branch_length": 0.00080413
+    },
+    "NODE_0001243": {
+      "branch_length": 0.00080281
+    },
+    "NODE_0001244": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001245": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001246": {
+      "branch_length": 0.00080317
+    },
+    "NODE_0001247": {
+      "branch_length": 0.00080325
+    },
+    "NODE_0001248": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001249": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001250": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001251": {
+      "branch_length": 0.0
+    },
+    "NODE_0001252": {
+      "branch_length": 0.0
+    },
+    "NODE_0001253": {
+      "branch_length": 0.0
+    },
+    "NODE_0001254": {
+      "branch_length": 0.0
+    },
+    "NODE_0001255": {
+      "branch_length": 0.0
+    },
+    "NODE_0001256": {
+      "branch_length": 0.0
+    },
+    "NODE_0001257": {
+      "branch_length": 0.0
+    },
+    "NODE_0001258": {
+      "branch_length": 0.0
+    },
+    "NODE_0001259": {
+      "branch_length": 0.0
+    },
+    "NODE_0001260": {
+      "branch_length": 0.0
+    },
+    "NODE_0001261": {
+      "branch_length": 0.0
+    },
+    "NODE_0001262": {
+      "branch_length": 0.0
+    },
+    "NODE_0001263": {
+      "branch_length": 0.0
+    },
+    "NODE_0001264": {
+      "branch_length": 0.0
+    },
+    "NODE_0001265": {
+      "branch_length": 0.0
+    },
+    "NODE_0001266": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001267": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001268": {
+      "branch_length": 0.00080319
+    },
+    "NODE_0001269": {
+      "branch_length": 0.00080351
+    },
+    "NODE_0001270": {
+      "branch_length": 0.00080358
+    },
+    "NODE_0001271": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001272": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001273": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001274": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001275": {
+      "branch_length": 0.0
+    },
+    "NODE_0001276": {
+      "branch_length": 0.0
+    },
+    "NODE_0001277": {
+      "branch_length": 0.0
+    },
+    "NODE_0001278": {
+      "branch_length": 0.0
+    },
+    "NODE_0001279": {
+      "branch_length": 0.0
+    },
+    "NODE_0001280": {
+      "branch_length": 0.0
+    },
+    "NODE_0001281": {
+      "branch_length": 0.0
+    },
+    "NODE_0001282": {
+      "branch_length": 0.0
+    },
+    "NODE_0001283": {
+      "branch_length": 0.0
+    },
+    "NODE_0001284": {
+      "branch_length": 0.0
+    },
+    "NODE_0001285": {
+      "branch_length": 0.0
+    },
+    "NODE_0001286": {
+      "branch_length": 0.00080386
+    },
+    "NODE_0001287": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001288": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001289": {
+      "branch_length": 0.0
+    },
+    "NODE_0001290": {
+      "branch_length": 0.0
+    },
+    "NODE_0001291": {
+      "branch_length": 0.0
+    },
+    "NODE_0001292": {
+      "branch_length": 0.0
+    },
+    "NODE_0001293": {
+      "branch_length": 0.0
+    },
+    "NODE_0001294": {
+      "branch_length": 0.0
+    },
+    "NODE_0001295": {
+      "branch_length": 0.0
+    },
+    "NODE_0001296": {
+      "branch_length": 0.0
+    },
+    "NODE_0001297": {
+      "branch_length": 0.0
+    },
+    "NODE_0001298": {
+      "branch_length": 0.0
+    },
+    "NODE_0001299": {
+      "branch_length": 0.0
+    },
+    "NODE_0001300": {
+      "branch_length": 0.0
+    },
+    "NODE_0001301": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001302": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001303": {
+      "branch_length": 2.49e-06
+    },
+    "NODE_0001304": {
+      "branch_length": 0.00080332
+    },
+    "NODE_0001305": {
+      "branch_length": 0.00160687
+    },
+    "NODE_0001306": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001307": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001308": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001309": {
+      "branch_length": 0.0
+    },
+    "NODE_0001310": {
+      "branch_length": 0.0
+    },
+    "NODE_0001311": {
+      "branch_length": 0.0
+    },
+    "NODE_0001312": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001313": {
+      "branch_length": 0.00080298
+    },
+    "NODE_0001314": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001315": {
+      "branch_length": 0.00080309
+    },
+    "NODE_0001316": {
+      "branch_length": 0.00080337
+    },
+    "NODE_0001317": {
+      "branch_length": 2.57e-06
+    },
+    "NODE_0001318": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001319": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001320": {
+      "branch_length": 0.00080357
+    },
+    "NODE_0001321": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001322": {
+      "branch_length": 0.00160832
+    },
+    "NODE_0001323": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001324": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001325": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001326": {
+      "branch_length": 0.00080332
+    },
+    "NODE_0001327": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001328": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001329": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001330": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001331": {
+      "branch_length": 0.0
+    },
+    "NODE_0001332": {
+      "branch_length": 0.0
+    },
+    "NODE_0001333": {
+      "branch_length": 0.0
+    },
+    "NODE_0001334": {
+      "branch_length": 0.0
+    },
+    "NODE_0001335": {
+      "branch_length": 0.00080355
+    },
+    "NODE_0001336": {
+      "branch_length": 2.56e-06
+    },
+    "NODE_0001337": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001338": {
+      "branch_length": 0.0
+    },
+    "NODE_0001339": {
+      "branch_length": 0.0008032
+    },
+    "NODE_0001340": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001341": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001342": {
+      "branch_length": 0.00080364
+    },
+    "NODE_0001343": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001344": {
+      "branch_length": 0.00080352
+    },
+    "NODE_0001345": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001346": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001347": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001348": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001349": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001350": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001351": {
+      "branch_length": 0.00080388
+    },
+    "NODE_0001352": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001353": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001354": {
+      "branch_length": 0.0
+    },
+    "NODE_0001355": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001356": {
+      "branch_length": 0.00080371
+    },
+    "NODE_0001357": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001358": {
+      "branch_length": 0.00080371
+    },
+    "NODE_0001359": {
+      "branch_length": 0.00080348
+    },
+    "NODE_0001360": {
+      "branch_length": 0.00080376
+    },
+    "NODE_0001361": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001362": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001363": {
+      "branch_length": 0.0
+    },
+    "NODE_0001364": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001365": {
+      "branch_length": 0.00080359
+    },
+    "NODE_0001366": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001367": {
+      "branch_length": 0.00080352
+    },
+    "NODE_0001368": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001369": {
+      "branch_length": 1e-06
+    },
+    "NODE_0001370": {
+      "branch_length": 0.0
+    },
+    "NODE_0001371": {
+      "branch_length": 0.0
+    },
+    "NODE_0001372": {
+      "branch_length": 0.0
+    },
+    "NODE_0001373": {
+      "branch_length": 0.0
+    },
+    "NODE_0001374": {
+      "branch_length": 0.0
+    },
+    "NODE_0001375": {
+      "branch_length": 0.0
+    },
+    "NODE_0001376": {
+      "branch_length": 0.0
+    },
+    "NODE_0001377": {
+      "branch_length": 0.0
+    },
+    "NODE_0001378": {
+      "branch_length": 0.0
+    },
+    "NODE_0001379": {
+      "branch_length": 0.0
+    },
+    "NODE_0001380": {
+      "branch_length": 0.0
+    },
+    "NODE_0001381": {
+      "branch_length": 0.0
+    },
+    "NODE_0001382": {
+      "branch_length": 0.0
+    },
+    "NODE_0001383": {
+      "branch_length": 0.0
+    },
+    "NODE_0001384": {
+      "branch_length": 0.0
+    },
+    "NODE_0001385": {
+      "branch_length": 0.0
+    },
+    "NODE_0001386": {
+      "branch_length": 0.0
+    },
+    "NODE_0001387": {
+      "branch_length": 0.0
+    },
+    "NODE_0001388": {
+      "branch_length": 0.0
+    },
+    "NODE_0001389": {
+      "branch_length": 0.0
+    },
+    "NODE_0001390": {
+      "branch_length": 0.0
+    },
+    "NODE_0001391": {
+      "branch_length": 0.0
+    },
+    "NODE_0001392": {
+      "branch_length": 0.0
+    },
+    "NODE_0001393": {
+      "branch_length": 0.0
+    },
+    "NODE_0001394": {
+      "branch_length": 0.0
+    },
+    "NODE_0001395": {
+      "branch_length": 0.0
+    },
+    "NODE_0001396": {
+      "branch_length": 0.0
+    },
+    "NODE_0001397": {
+      "branch_length": 0.0
+    },
+    "NODE_0001398": {
+      "branch_length": 0.0
+    },
+    "NODE_0001399": {
+      "branch_length": 0.0
+    },
+    "NODE_0001400": {
+      "branch_length": 0.0
+    },
+    "NODE_0001401": {
+      "branch_length": 0.0
+    },
+    "NRCE_HKU205": {
+      "branch_length": 0.00402398
+    },
+    "NRCE_HKU270": {
+      "branch_length": 0.00034895
+    },
+    "NS_1": {
+      "branch_length": 0.0
+    },
+    "Neoromicia/5038": {
+      "branch_length": 0.0109634
+    },
+    "Neoromicia/PML_PHE1/RSA/2011": {
+      "branch_length": 0.00615448
+    },
+    "Netherlands/Delft_1363424/2020": {
+      "branch_length": 0.0
+    },
+    "Netherlands/Diemen_1363454/2020": {
+      "branch_length": 1e-06
+    },
+    "Netherlands/Gelderland_43/2020": {
+      "branch_length": 0.0
+    },
+    "Netherlands/NoordHolland_26/2020": {
+      "branch_length": 0.00079799
+    },
+    "OC43/Mex/LRTI_238/2011": {
+      "branch_length": 0.00223965
+    },
+    "OC43/USA/007_11/2000": {
+      "branch_length": 0.0
+    },
+    "OC43/USA/008_5/2000": {
+      "branch_length": 0.00074665
+    },
+    "OC43/USA/832_27/1983": {
+      "branch_length": 0.00074629
+    },
+    "OC43/USA/851_15/1985": {
+      "branch_length": 0.00074647
+    },
+    "OC43/USA/871_25/1987": {
+      "branch_length": 1e-06
+    },
+    "OC43/USA/872_5/1987": {
+      "branch_length": 0.00224115
+    },
+    "OC43/USA/873_16/1987": {
+      "branch_length": 1e-06
+    },
+    "OC43/USA/873_19/1987": {
+      "branch_length": 1e-06
+    },
+    "OC43/USA/873_6/1987": {
+      "branch_length": 0.00149312
+    },
+    "OC43/USA/8912_37/1989": {
+      "branch_length": 0.0
+    },
+    "OC43/USA/901_33/1990": {
+      "branch_length": 0.0
+    },
+    "OC43/USA/901_41/1990": {
+      "branch_length": 1e-06
+    },
+    "OC43/USA/901_43/1990": {
+      "branch_length": 0.0
+    },
+    "OC43/USA/901_54/1990": {
+      "branch_length": 0.00074612
+    },
+    "OC43/USA/911_11/1991": {
+      "branch_length": 1e-06
+    },
+    "OC43/USA/911_38/1991": {
+      "branch_length": 1e-06
+    },
+    "OC43/USA/911_58/1991": {
+      "branch_length": 0.00074612
+    },
+    "OC43/USA/911_66/1991": {
+      "branch_length": 0.00074608
+    },
+    "OC43/USA/912_10/1991": {
+      "branch_length": 1e-06
+    },
+    "OC43/USA/912_11/1991": {
+      "branch_length": 1e-06
+    },
+    "OC43/USA/912_36/1991": {
+      "branch_length": 0.00074632
+    },
+    "OC43/USA/912_6/1991": {
+      "branch_length": 1e-06
+    },
+    "OC43/USA/913_29/1991": {
+      "branch_length": 0.00074611
+    },
+    "OC43/USA/9211_43/1992": {
+      "branch_length": 0.00149308
+    },
+    "OC43/USA/9212_33/1992": {
+      "branch_length": 1e-06
+    },
+    "OC43/USA/925_1/1992": {
+      "branch_length": 0.00074611
+    },
+    "OC43/USA/931_85/1993": {
+      "branch_length": 1e-06
+    },
+    "OC43/USA/951_15/1995": {
+      "branch_length": 0.000746
+    },
+    "OC43/USA/951_18/1995": {
+      "branch_length": 0.00149333
+    },
+    "OC43/USA/952_23/1995": {
+      "branch_length": 1e-06
+    },
+    "OC43/USA/953_23/1995": {
+      "branch_length": 1e-06
+    },
+    "OC43/USA/9612_29/1996": {
+      "branch_length": 1e-06
+    },
+    "OC43/USA/9612_48/1996": {
+      "branch_length": 1e-06
+    },
+    "OC43/USA/9612_9/1996": {
+      "branch_length": 0.0
+    },
+    "OC43/USA/965_6/1996": {
+      "branch_length": 0.00149351
+    },
+    "OC43/USA/9712_13/1997": {
+      "branch_length": 0.00074613
+    },
+    "OC43/USA/9712_31/1997": {
+      "branch_length": 0.0
+    },
+    "OC43/USA/971_5/1997": {
+      "branch_length": 0.00074608
+    },
+    "OC43/USA/982_4/1998": {
+      "branch_length": 0.00299158
+    },
+    "OC43/USA/991_19/1999": {
+      "branch_length": 1e-06
+    },
+    "OC43/USA/991_5/1999": {
+      "branch_length": 0.0
+    },
+    "OC43_KLF_01_2018": {
+      "branch_length": 0.00223853
+    },
+    "OC43_KLF_02_2017": {
+      "branch_length": 1e-06
+    },
+    "Obihiro12_1": {
+      "branch_length": 0.00075017
+    },
+    "Obihiro12_2": {
+      "branch_length": 1e-06
+    },
+    "P2": {
+      "branch_length": 0.0
+    },
+    "PAK/JRCGR-KHI04/2020": {
+      "branch_length": 1e-06
+    },
+    "PC4_13": {
+      "branch_length": 0.00079127
+    },
+    "PC4_136": {
+      "branch_length": 0.00079272
+    },
+    "PC4_227": {
+      "branch_length": 1e-06
+    },
+    "PER/CoV-19_HRL-235/2020": {
+      "branch_length": 1e-06
+    },
+    "PER/covper002/2020": {
+      "branch_length": 1e-06
+    },
+    "PER/covper007/2020": {
+      "branch_length": 0.0
+    },
+    "PER/covper023/2020": {
+      "branch_length": 0.0
+    },
+    "PER/covper024/2020": {
+      "branch_length": 0.0
+    },
+    "PER/covper041/2020": {
+      "branch_length": 0.0
+    },
+    "PER/covper064/2020": {
+      "branch_length": 0.0
+    },
+    "PER/covper066/2020": {
+      "branch_length": 0.0
+    },
+    "PER/covper071/2020": {
+      "branch_length": 0.0
+    },
+    "PER/covper072/2020": {
+      "branch_length": 0.0
+    },
+    "PER/covper081/2020": {
+      "branch_length": 0.0
+    },
+    "PER/covper084/2020": {
+      "branch_length": 0.0
+    },
+    "PER/covper086/2020": {
+      "branch_length": 0.0
+    },
+    "PER/covper093/2020": {
+      "branch_length": 0.0
+    },
+    "PHEV_CoV_USA_15TOSU0331": {
+      "branch_length": 0.0
+    },
+    "PHEV_CoV_USA_15TOSU0582": {
+      "branch_length": 0.00074406
+    },
+    "PHEV_CoV_USA_15TOSU1209": {
+      "branch_length": 0.0
+    },
+    "PHEV_CoV_USA_15TOSU1362": {
+      "branch_length": 1e-06
+    },
+    "PHEV_CoV_USA_15TOSU1582": {
+      "branch_length": 0.0
+    },
+    "PHEV_CoV_USA_15TOSU1655": {
+      "branch_length": 1e-06
+    },
+    "PHEV_CoV_USA_15TOSU1727": {
+      "branch_length": 0.0
+    },
+    "PHEV_CoV_USA_15TOSU1765": {
+      "branch_length": 0.0
+    },
+    "PHEV_CoV_USA_15TOSU1785": {
+      "branch_length": 1e-06
+    },
+    "PHEV_CoV_USA_15TOSU25049": {
+      "branch_length": 0.00751996
+    },
+    "PHL/COVID-4792/2020": {
+      "branch_length": 0.00081085
+    },
+    "PHL/COVID-5976/2020": {
+      "branch_length": 1e-06
+    },
+    "PHL/PH-PGC-02732/2021": {
+      "branch_length": 0.00079658
+    },
+    "POL/IHG_PAS_8_29/2020": {
+      "branch_length": 0.00079673
+    },
+    "POL/PL_MCB_28/2020": {
+      "branch_length": 0.0
+    },
+    "POL/PL_MCB_94/2020": {
+      "branch_length": 0.0
+    },
+    "PUMC01": {
+      "branch_length": 0.0
+    },
+    "PUMC02": {
+      "branch_length": 0.0
+    },
+    "PUMC03": {
+      "branch_length": 0.0
+    },
+    "Parker": {
+      "branch_length": 0.00140521
+    },
+    "Penn_97_1": {
+      "branch_length": 1e-06
+    },
+    "Qatar15": {
+      "branch_length": 0.0
+    },
+    "Qatar3": {
+      "branch_length": 0.00080314
+    },
+    "Qatar4": {
+      "branch_length": 1e-06
+    },
+    "Quebec": {
+      "branch_length": 0.00074608
+    },
+    "RA59/R13": {
+      "branch_length": 0.0
+    },
+    "RA59/SJHM": {
+      "branch_length": 0.0
+    },
+    "RJHM/A": {
+      "branch_length": 0.0
+    },
+    "RUS/2272/2020": {
+      "branch_length": 0.0
+    },
+    "RUS/2666/2020": {
+      "branch_length": 1e-06
+    },
+    "RUS/Dubrovka/2020": {
+      "branch_length": 1e-06
+    },
+    "RUS/SCPM-O-cDNA-05/2020": {
+      "branch_length": 0.0
+    },
+    "R_AH187": {
+      "branch_length": 0.0
+    },
+    "R_AH65": {
+      "branch_length": 1e-06
+    },
+    "R_AH65_TC": {
+      "branch_length": 1e-06
+    },
+    "Rf1": {
+      "branch_length": 0.00397182
+    },
+    "Rf4092": {
+      "branch_length": 0.00716258
+    },
+    "Riyadh_14_2013": {
+      "branch_length": 0.0
+    },
+    "Riyadh_1_2012": {
+      "branch_length": 0.0
+    },
+    "Riyadh_2014KSA_683/KSA/2014": {
+      "branch_length": 1e-06
+    },
+    "Riyadh_2_2012": {
+      "branch_length": 0.0
+    },
+    "Riyadh_3_2013": {
+      "branch_length": 0.000803
+    },
+    "Riyadh_4_2013": {
+      "branch_length": 0.0
+    },
+    "Riyadh_5_2013": {
+      "branch_length": 0.0
+    },
+    "Riyadh_8b_2013": {
+      "branch_length": 1e-06
+    },
+    "Riyadh_9_2013": {
+      "branch_length": 0.00241251
+    },
+    "Rm1": {
+      "branch_length": 1e-06
+    },
+    "Rousettus_spp/Jinghong/2009": {
+      "branch_length": 0.10555215
+    },
+    "Rp3": {
+      "branch_length": 0.0145843
+    },
+    "Rs3367": {
+      "branch_length": 2.81e-06
+    },
+    "Rs4081": {
+      "branch_length": 0.00373218
+    },
+    "Rs4084": {
+      "branch_length": 0.00484242
+    },
+    "Rs4231": {
+      "branch_length": 0.00158478
+    },
+    "Rs4237": {
+      "branch_length": 0.00787144
+    },
+    "Rs4247": {
+      "branch_length": 0.00079184
+    },
+    "Rs4255": {
+      "branch_length": 0.00317834
+    },
+    "Rs4874": {
+      "branch_length": 1e-06
+    },
+    "Rs672": {
+      "branch_length": 0.00752616
+    },
+    "Rs7327": {
+      "branch_length": 0.00453173
+    },
+    "Rs9401": {
+      "branch_length": 2.28e-06
+    },
+    "RsSHC014": {
+      "branch_length": 0.00342409
+    },
+    "S": {
+      "branch_length": 0.00074062
+    },
+    "SA59/RJHM": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c13P1/2009": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c13P10/2009": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c13P20/2009": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c510P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c51P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c52P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c53P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c54P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c55P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c56P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c57P20/2010": {
+      "branch_length": 0.00237826
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c58P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c59P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c5P10/2009": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c5P20/2009": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c8P1/2009": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c8P10/2009": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/ExoN1_c8P20/2009": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c110P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c11P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c12P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c13P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c14P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c15P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c16P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c17P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c18P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c19P20/2010": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c1P10/2009": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c1P20/2009": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c2P1/2009": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c2P10/2009": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c2P20/2009": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c3P1/2009": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c3P10/2009": {
+      "branch_length": 0.0
+    },
+    "SARS/VeroE6_lab/USA/WTic_c3P20/2009": {
+      "branch_length": 0.0
+    },
+    "SAU/KAIMRC02/2020": {
+      "branch_length": 0.0
+    },
+    "SC0682": {
+      "branch_length": 0.0
+    },
+    "SC0776": {
+      "branch_length": 0.00074578
+    },
+    "SC0810": {
+      "branch_length": 0.0
+    },
+    "SC0839": {
+      "branch_length": 0.0
+    },
+    "SC0841": {
+      "branch_length": 0.00299571
+    },
+    "SC2269": {
+      "branch_length": 1e-06
+    },
+    "SC2345": {
+      "branch_length": 0.0
+    },
+    "SC2476": {
+      "branch_length": 1e-06
+    },
+    "SC2481": {
+      "branch_length": 1e-06
+    },
+    "SC2521": {
+      "branch_length": 0.00148108
+    },
+    "SC2628": {
+      "branch_length": 0.00511464
+    },
+    "SC2730": {
+      "branch_length": 0.00074578
+    },
+    "SC2770": {
+      "branch_length": 0.00074578
+    },
+    "SC2854": {
+      "branch_length": 0.00149206
+    },
+    "SC2924": {
+      "branch_length": 0.00298802
+    },
+    "SC3118": {
+      "branch_length": 0.0
+    },
+    "SC622": {
+      "branch_length": 0.00074579
+    },
+    "SC831": {
+      "branch_length": 1e-06
+    },
+    "SC9428": {
+      "branch_length": 0.00224057
+    },
+    "SC9430": {
+      "branch_length": 0.0
+    },
+    "SC9741": {
+      "branch_length": 0.0
+    },
+    "SI17244": {
+      "branch_length": 1e-06
+    },
+    "SIN2500": {
+      "branch_length": 0.0
+    },
+    "SIN2677": {
+      "branch_length": 0.0
+    },
+    "SIN2679": {
+      "branch_length": 0.0
+    },
+    "SIN2748": {
+      "branch_length": 0.0
+    },
+    "SIN2774": {
+      "branch_length": 0.0
+    },
+    "SLE/KGH-G-8548/2020": {
+      "branch_length": 0.0
+    },
+    "SRB/ME00011-29-04/2020": {
+      "branch_length": 1e-06
+    },
+    "SRB/NP20/2020": {
+      "branch_length": 0.0
+    },
+    "SRB/NP40/2020": {
+      "branch_length": 0.0
+    },
+    "SRB/NS19877-17-06/2020": {
+      "branch_length": 0.0
+    },
+    "SRB/SU06217-23-04/2020": {
+      "branch_length": 0.00079739
+    },
+    "SRB/UE92/2020": {
+      "branch_length": 0.0
+    },
+    "SZ16": {
+      "branch_length": 0.0
+    },
+    "SZ3": {
+      "branch_length": 0.0
+    },
+    "Sequence_11_from_Patent_EP1736539": {
+      "branch_length": 0.0
+    },
+    "Sequence_11_from_Patent_WO2006136448": {
+      "branch_length": 0.0
+    },
+    "Sequence_14_from_Patent_WO2005035556": {
+      "branch_length": 0.0
+    },
+    "Sequence_15_from_Patent_WO2004096842": {
+      "branch_length": 0.0
+    },
+    "Sequence_1_from_Patent_WO2004096842": {
+      "branch_length": 0.0
+    },
+    "Sequence_1_from_Patent_WO2006039656": {
+      "branch_length": 0.0
+    },
+    "Sequence_2_from_Patent_WO2004096842": {
+      "branch_length": 0.0
+    },
+    "Sequence_67_from_Patent_WO2004011647": {
+      "branch_length": 0.0
+    },
+    "ShanghaiQXC1": {
+      "branch_length": 0.0
+    },
+    "ShanghaiQXC2": {
+      "branch_length": 0.0
+    },
+    "Sin3408": {
+      "branch_length": 0.0
+    },
+    "Sin3408L": {
+      "branch_length": 0.0
+    },
+    "Sin3725V": {
+      "branch_length": 0.0
+    },
+    "Sin3765V": {
+      "branch_length": 0.0
+    },
+    "Sin842": {
+      "branch_length": 0.0
+    },
+    "Sin845": {
+      "branch_length": 0.0
+    },
+    "Sin846": {
+      "branch_length": 0.0
+    },
+    "Sin847": {
+      "branch_length": 0.0
+    },
+    "Sin848": {
+      "branch_length": 0.0
+    },
+    "Sin849": {
+      "branch_length": 0.0
+    },
+    "Sin850": {
+      "branch_length": 0.0
+    },
+    "Sin852": {
+      "branch_length": 0.0
+    },
+    "SinP1": {
+      "branch_length": 0.0
+    },
+    "SinP2": {
+      "branch_length": 1e-06
+    },
+    "SinP3": {
+      "branch_length": 0.0
+    },
+    "SinP4": {
+      "branch_length": 0.0
+    },
+    "SinP5": {
+      "branch_length": 0.0
+    },
+    "Sino1_11": {
+      "branch_length": 0.0
+    },
+    "Sino3_11": {
+      "branch_length": 0.0
+    },
+    "SoD": {
+      "branch_length": 0.0
+    },
+    "Switzerland/AG-UZH-IMV13/2020": {
+      "branch_length": 0.0
+    },
+    "Switzerland/GE-32799330/2020": {
+      "branch_length": 0.00079605
+    },
+    "Switzerland/GE-32922788/2021": {
+      "branch_length": 0.0
+    },
+    "Switzerland/ZH-UZH-IMV-3ba25652/2020": {
+      "branch_length": 0.0
+    },
+    "Switzerland/ZH-UZH-IMV-3ba3cf2a/2021": {
+      "branch_length": 0.00079796
+    },
+    "Switzerland/ZH-UZH-IMV126/2020": {
+      "branch_length": 0.00079711
+    },
+    "TC1": {
+      "branch_length": 0.0
+    },
+    "TC2": {
+      "branch_length": 0.0
+    },
+    "TC3": {
+      "branch_length": 0.0
+    },
+    "THA/SI200478-NST/2020": {
+      "branch_length": 0.0
+    },
+    "TJF": {
+      "branch_length": 0.00158401
+    },
+    "TLS/TL25/2020": {
+      "branch_length": 1e-06
+    },
+    "TNP_12636": {
+      "branch_length": 1e-06
+    },
+    "TNP_12643": {
+      "branch_length": 0.0
+    },
+    "TNP_F1778_2": {
+      "branch_length": 0.0
+    },
+    "TNP_F1790_2": {
+      "branch_length": 1e-06
+    },
+    "TNP_F1832_2": {
+      "branch_length": 0.0
+    },
+    "TNP_F1833_2": {
+      "branch_length": 0.0
+    },
+    "TNP_F1834_2": {
+      "branch_length": 0.0
+    },
+    "TT03f": {
+      "branch_length": 0.0
+    },
+    "TT06f": {
+      "branch_length": 1e-06
+    },
+    "TT07f": {
+      "branch_length": 0.0
+    },
+    "TUN/COV1482/2020": {
+      "branch_length": 0.00159592
+    },
+    "TUN/TUN-202055262/2020": {
+      "branch_length": 0.00079734
+    },
+    "TUN/TUN-202061689/2020": {
+      "branch_length": 0.0
+    },
+    "TUN/TUN-20211267/2021": {
+      "branch_length": 0.00159545
+    },
+    "TUN/TUN202055153/2020": {
+      "branch_length": 0.0
+    },
+    "TUN/TUN202055304/2020": {
+      "branch_length": 0.0015946
+    },
+    "TUN/TUN_ADAGE_4681/2020": {
+      "branch_length": 0.00079734
+    },
+    "TUN/TUN_ADAGE_5004/2020": {
+      "branch_length": 0.00079747
+    },
+    "TUR/IMU-SP-01/2020": {
+      "branch_length": 0.0
+    },
+    "TUR/KOC-IST-B91/2020": {
+      "branch_length": 0.0
+    },
+    "TW1": {
+      "branch_length": 0.0
+    },
+    "TW10": {
+      "branch_length": 0.0
+    },
+    "TW11": {
+      "branch_length": 0.0007915
+    },
+    "TW2": {
+      "branch_length": 0.0
+    },
+    "TW3": {
+      "branch_length": 0.0
+    },
+    "TW4": {
+      "branch_length": 0.0
+    },
+    "TW5": {
+      "branch_length": 0.0
+    },
+    "TW6": {
+      "branch_length": 0.0
+    },
+    "TW7": {
+      "branch_length": 0.0
+    },
+    "TW8": {
+      "branch_length": 0.0
+    },
+    "TW9": {
+      "branch_length": 0.0
+    },
+    "TWC": {
+      "branch_length": 0.0
+    },
+    "TWC2": {
+      "branch_length": 0.0
+    },
+    "TWC3": {
+      "branch_length": 0.0
+    },
+    "TWH": {
+      "branch_length": 0.0
+    },
+    "TWJ": {
+      "branch_length": 1e-06
+    },
+    "TWK": {
+      "branch_length": 0.00079151
+    },
+    "TWN/CGMH-CGU-05/2020": {
+      "branch_length": 0.00079733
+    },
+    "TWN/CGMH-CGU-36/2020": {
+      "branch_length": 0.0
+    },
+    "TWS": {
+      "branch_length": 0.0
+    },
+    "TWY": {
+      "branch_length": 0.0
+    },
+    "Taif_1_2013": {
+      "branch_length": 1e-06
+    },
+    "Tokachi09": {
+      "branch_length": 0.00496521
+    },
+    "Tor2": {
+      "branch_length": 0.0
+    },
+    "Tor2/FP1_10851": {
+      "branch_length": 0.0
+    },
+    "Tor2/FP1_10895": {
+      "branch_length": 0.0
+    },
+    "Tor2/FP1_10912": {
+      "branch_length": 0.0
+    },
+    "UNKNOWN_AC_000192": {
+      "branch_length": 0.00221826
+    },
+    "UNKNOWN_AH013709": {
+      "branch_length": 1e-06
+    },
+    "UNKNOWN_AY585229": {
+      "branch_length": 1e-06
+    },
+    "UNKNOWN_AY884001": {
+      "branch_length": 1e-06
+    },
+    "UNKNOWN_CS079027": {
+      "branch_length": 0.0
+    },
+    "UNKNOWN_CS079028": {
+      "branch_length": 0.0
+    },
+    "UNKNOWN_CS079029": {
+      "branch_length": 0.0
+    },
+    "UNKNOWN_DJ045279": {
+      "branch_length": 0.0
+    },
+    "UNKNOWN_DJ059765": {
+      "branch_length": 0.0
+    },
+    "UNKNOWN_DJ066921": {
+      "branch_length": 0.0
+    },
+    "UNKNOWN_DL008527": {
+      "branch_length": 0.0
+    },
+    "UNKNOWN_DL476508": {
+      "branch_length": 0.0
+    },
+    "UNKNOWN_DQ915164": {
+      "branch_length": 0.00074641
+    },
+    "UNKNOWN_FJ425184": {
+      "branch_length": 0.0
+    },
+    "UNKNOWN_FJ425185": {
+      "branch_length": 1e-06
+    },
+    "UNKNOWN_FJ425186": {
+      "branch_length": 0.0
+    },
+    "UNKNOWN_FJ425187": {
+      "branch_length": 1e-06
+    },
+    "UNKNOWN_FJ425188": {
+      "branch_length": 0.0
+    },
+    "UNKNOWN_FJ425189": {
+      "branch_length": 1e-06
+    },
+    "UNKNOWN_FJ425190": {
+      "branch_length": 0.0
+    },
+    "UNKNOWN_HM211098": {
+      "branch_length": 0.00147577
+    },
+    "UNKNOWN_HM211099": {
+      "branch_length": 0.0903654
+    },
+    "UNKNOWN_HM211100": {
+      "branch_length": 0.0021538
+    },
+    "UNKNOWN_HM211101": {
+      "branch_length": 0.07549165
+    },
+    "UNKNOWN_HW269828": {
+      "branch_length": 0.0
+    },
+    "UNKNOWN_HW375992": {
+      "branch_length": 0.0
+    },
+    "UNKNOWN_LP963762": {
+      "branch_length": 1e-06
+    },
+    "UNKNOWN_LQ289146": {
+      "branch_length": 0.00074673
+    },
+    "UNKNOWN_MK679660": {
+      "branch_length": 0.04143237
+    },
+    "URY/M296/2020": {
+      "branch_length": 0.00159413
+    },
+    "US/OH1/2003": {
+      "branch_length": 0.00074629
+    },
+    "US/OH3/2003": {
+      "branch_length": 1e-06
+    },
+    "US/OH3/2006": {
+      "branch_length": 0.0
+    },
+    "US/OH3_TC/2006": {
+      "branch_length": 0.0
+    },
+    "USA/307-NP-OP/2020": {
+      "branch_length": 1e-06
+    },
+    "USA/AL-CDC-LC0021411/2021": {
+      "branch_length": 0.00079648
+    },
+    "USA/AR-UAMS002/2020": {
+      "branch_length": 0.0
+    },
+    "USA/CA-QDX-2791/2020": {
+      "branch_length": 1e-06
+    },
+    "USA/CO-QDX-2314/2020": {
+      "branch_length": 0.0
+    },
+    "USA/DC-CDC-22122558/2021": {
+      "branch_length": 0.0
+    },
+    "USA/FL-BPHL-0309/2020": {
+      "branch_length": 0.0
+    },
+    "USA/FL-BPHL-1053/2020": {
+      "branch_length": 0.0
+    },
+    "USA/GA-QDX-232/2020": {
+      "branch_length": 0.0
+    },
+    "USA/HI-CDC-2-3911138/2020": {
+      "branch_length": 0.0
+    },
+    "USA/HI-CDC-STM-0000014-G08/2021": {
+      "branch_length": 1e-06
+    },
+    "USA/IA-CDC-2-3714367/2020": {
+      "branch_length": 0.0015955
+    },
+    "USA/IA-CDC-6391/2020": {
+      "branch_length": 0.0
+    },
+    "USA/IA-CDC-LC0002728/2020": {
+      "branch_length": 1e-06
+    },
+    "USA/IA-UW-662/2020": {
+      "branch_length": 1e-06
+    },
+    "USA/IL-CDC-2-4070013/2021": {
+      "branch_length": 0.0
+    },
+    "USA/IL-UW-690/2020": {
+      "branch_length": 1e-06
+    },
+    "USA/KS-QDX-3372/2020": {
+      "branch_length": 0.0
+    },
+    "USA/LA-BIE-027/2020": {
+      "branch_length": 0.0
+    },
+    "USA/MA-CDC-2-3981831/2020": {
+      "branch_length": 0.0
+    },
+    "USA/MA-CDC-LC0019018/2021": {
+      "branch_length": 0.0
+    },
+    "USA/MA-MGH-03370/2020": {
+      "branch_length": 0.00079706
+    },
+    "USA/MD-MDH-0271/2020": {
+      "branch_length": 0.0
+    },
+    "USA/MD-NIH-00013/2020": {
+      "branch_length": 0.00079693
+    },
+    "USA/ME-CDC-2-3912130/2021": {
+      "branch_length": 1e-06
+    },
+    "USA/MI-CDC-2-3971658/2021": {
+      "branch_length": 0.00079649
+    },
+    "USA/MN-MDH-1558/2020": {
+      "branch_length": 0.00079747
+    },
+    "USA/MN-MDH-2812/2021": {
+      "branch_length": 0.00159468
+    },
+    "USA/MO-QDX-4435/2020": {
+      "branch_length": 0.00319446
+    },
+    "USA/MS-CDC-LC0023657/2021": {
+      "branch_length": 0.0
+    },
+    "USA/MS-USAFSAM-S022/2020": {
+      "branch_length": 0.0
+    },
+    "USA/NC-CDC-2-4693552/2020": {
+      "branch_length": 1e-06
+    },
+    "USA/ND-CDC-2-3766702/2020": {
+      "branch_length": 0.00079722
+    },
+    "USA/NE-CDC-7025/2020": {
+      "branch_length": 0.0
+    },
+    "USA/NH-CDC-22632240/2021": {
+      "branch_length": 0.00079676
+    },
+    "USA/NV-QDX-3468/2020": {
+      "branch_length": 1e-06
+    },
+    "USA/NY-CDC-LC0003783/2021": {
+      "branch_length": 1e-06
+    },
+    "USA/NY-UW-584/2020": {
+      "branch_length": 0.00079738
+    },
+    "USA/OH-UHTL-1/2021": {
+      "branch_length": 0.00159573
+    },
+    "USA/OK-CDC-2-3829912/2020": {
+      "branch_length": 1e-06
+    },
+    "USA/OK-QDX-3278/2020": {
+      "branch_length": 0.00159543
+    },
+    "USA/PR-CDC-LC0023798/2021": {
+      "branch_length": 0.0
+    },
+    "USA/RI-Broad_RIDOH-00295/2021": {
+      "branch_length": 0.0
+    },
+    "USA/SC-COVID21-0603/2021": {
+      "branch_length": 0.00079676
+    },
+    "USA/UT-CDC-LC0004595/2021": {
+      "branch_length": 0.00079673
+    },
+    "USA/VA-CDC-LC0000699/2020": {
+      "branch_length": 0.0
+    },
+    "USA/VI-CDC-STM-000005664/2021": {
+      "branch_length": 1e-06
+    },
+    "USA/WV-CDC-2-3767469/2020": {
+      "branch_length": 0.0
+    },
+    "USA/WV-QDX-1284/2020": {
+      "branch_length": 0.0007972
+    },
+    "Urbani": {
+      "branch_length": 0.0
+    },
+    "V13": {
+      "branch_length": 0.00160966
+    },
+    "V16": {
+      "branch_length": 0.00080303
+    },
+    "V2363": {
+      "branch_length": 0.00080265
+    },
+    "V2366": {
+      "branch_length": 0.00321883
+    },
+    "V4408": {
+      "branch_length": 0.00228283
+    },
+    "V681": {
+      "branch_length": 0.00314306
+    },
+    "V8190": {
+      "branch_length": 0.0008169
+    },
+    "VEN/11MZ/2020": {
+      "branch_length": 0.0
+    },
+    "VNM/nCoV-19-01S/2020": {
+      "branch_length": 0.0
+    },
+    "VW572": {
+      "branch_length": 0.00942718
+    },
+    "VZ_BetaCoV_20724_33": {
+      "branch_length": 0.0
+    },
+    "VZ_BetaCoV_20724_34_c12": {
+      "branch_length": 0.07006403
+    },
+    "VZ_BetaCoV_20724_34_c13": {
+      "branch_length": 1e-06
+    },
+    "VZ_BetaCoV_20724_38": {
+      "branch_length": 0.0
+    },
+    "VZ_BetaCoV_20724_39": {
+      "branch_length": 0.0
+    },
+    "VZ_BetaCoV_20724_43": {
+      "branch_length": 1e-06
+    },
+    "VZ_BetaCoV_22054_56": {
+      "branch_length": 0.00864568
+    },
+    "VZ_BetaCoV_22084_1": {
+      "branch_length": 0.0
+    },
+    "VZ_BetaCoV_22084_6": {
+      "branch_length": 0.0
+    },
+    "W17_18": {
+      "branch_length": 0.00599409
+    },
+    "WH20": {
+      "branch_length": 0.00158376
+    },
+    "WHU": {
+      "branch_length": 0.0007915
+    },
+    "WIV1": {
+      "branch_length": 0.00078851
+    },
+    "WIV16": {
+      "branch_length": 1e-06
+    },
+    "WTic": {
+      "branch_length": 0.0
+    },
+    "WZ_303": {
+      "branch_length": 0.0
+    },
+    "WZ_522": {
+      "branch_length": 0.00074591
+    },
+    "Wadi_Ad_Dawasir_1_2013": {
+      "branch_length": 0.0
+    },
+    "Wuhan-Hu-1/2019": {
+      "branch_length": 0.0
+    },
+    "YAK/HY24/CH/2017": {
+      "branch_length": 0.00224216
+    },
+    "YC_207": {
+      "branch_length": 0.00074595
+    },
+    "YC_55": {
+      "branch_length": 0.0
+    },
+    "YC_67": {
+      "branch_length": 1e-06
+    },
+    "YC_68": {
+      "branch_length": 1e-06
+    },
+    "YC_72": {
+      "branch_length": 0.0
+    },
+    "YNLF_31C": {
+      "branch_length": 1e-06
+    },
+    "YNLF_34C": {
+      "branch_length": 0.00079143
+    },
+    "ZBCoV": {
+      "branch_length": 0.0
+    },
+    "ZJ02": {
+      "branch_length": 0.0
+    },
+    "ZJ0301": {
+      "branch_length": 0.0
+    },
+    "ZMY_1": {
+      "branch_length": 0.00158678
+    },
+    "ZS_A": {
+      "branch_length": 1e-06
+    },
+    "ZS_B": {
+      "branch_length": 0.0
+    },
+    "ZS_C": {
+      "branch_length": 0.0
+    },
+    "Zhejiang2013": {
+      "branch_length": 0.27278098
+    },
+    "bat_SL_CoVZC45": {
+      "branch_length": 0.00567096
+    },
+    "bat_SL_CoVZXC21": {
+      "branch_length": 0.0071612
+    },
+    "bovine/US/OH_440_TC/1996": {
+      "branch_length": 0.00224057
+    },
+    "camel/Jeddah/401/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/D100/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/D33_b_/2014": {
+      "branch_length": 1e-06
+    },
+    "camel/Jeddah/D34/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/D35/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/D36/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/D38_b_/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/D40/2014": {
+      "branch_length": 0.00080371
+    },
+    "camel/Jeddah/D42/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/D43_b_/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/D45/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/D46_b_/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/D47/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/D48/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/D49/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/D50_b_/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/D88/2014": {
+      "branch_length": 1e-06
+    },
+    "camel/Jeddah/D90/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/D92/2014": {
+      "branch_length": 0.000804
+    },
+    "camel/Jeddah/F13A/2014": {
+      "branch_length": 0.00160709
+    },
+    "camel/Jeddah/Jd175/2015": {
+      "branch_length": 1e-06
+    },
+    "camel/Jeddah/Jd199/2015": {
+      "branch_length": 1e-06
+    },
+    "camel/Jeddah/Jd1_b_/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/Jd4/2015": {
+      "branch_length": 1e-06
+    },
+    "camel/Jeddah/Jd6_b_/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/Jd7/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/Jd85/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/Jd86/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/Jd87/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/Jd90/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/N51/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/N62_b_/2014": {
+      "branch_length": 0.00080319
+    },
+    "camel/Jeddah/N68_b_/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/O23_b_/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/O24/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/O30/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/O47_b_/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/S100/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/S73/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/S93/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/S94/2014": {
+      "branch_length": 0.0
+    },
+    "camel/Jeddah/S99/2014": {
+      "branch_length": 0.0
+    },
+    "camel/MERS/Amibara/118/2017": {
+      "branch_length": 1e-06
+    },
+    "camel/MERS/Amibara/126/2017": {
+      "branch_length": 1e-06
+    },
+    "camel/Riyadh/Ry136/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Riyadh/Ry137/2015": {
+      "branch_length": 1e-06
+    },
+    "camel/Riyadh/Ry159_b_/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Riyadh/Ry162/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Riyadh/Ry173/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Riyadh/Ry177/2015": {
+      "branch_length": 1e-06
+    },
+    "camel/Riyadh/Ry178/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Riyadh/Ry179/2015": {
+      "branch_length": 0.00160665
+    },
+    "camel/Riyadh/Ry23N/2014": {
+      "branch_length": 0.00080319
+    },
+    "camel/Riyadh/Ry63/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Riyadh/Ry64/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Riyadh/Ry79/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Riyadh/Ry84N/2014": {
+      "branch_length": 0.00080309
+    },
+    "camel/Riyadh/Ry86/2015": {
+      "branch_length": 1e-06
+    },
+    "camel/Taif/T150/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Taif/T157_b_/2015": {
+      "branch_length": 0.00080367
+    },
+    "camel/Taif/T16/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Taif/T22/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Taif/T3/2015": {
+      "branch_length": 1e-06
+    },
+    "camel/Taif/T68/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Taif/T7/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Taif/T89/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Taif/T91_b_/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Taif/T92/2015": {
+      "branch_length": 0.0
+    },
+    "camel/Taif/T98/2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_414377_W3_2015": {
+      "branch_length": 1e-06
+    },
+    "camel/UAE_414377_W4_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_414379_W3_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_414480_W3_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_414481_W4_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_414485_W3_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_414485_W4_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_414486_W3_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_414486_W4_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_414492_W3_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_414492_W4_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_414500_W3_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_414500_W4_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_415911_W3_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_415911_W4_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_415915_W3_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_415915_W4_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_415915_W6_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_416452_W4_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_416452_W6_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_417162_W4_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_417163_W4_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B100_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B101_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B102_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B103_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B104_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B105_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B106_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B107_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B108_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B109_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B10_2015": {
+      "branch_length": 1e-06
+    },
+    "camel/UAE_B110_2015": {
+      "branch_length": 1e-06
+    },
+    "camel/UAE_B111_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B11_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B12_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B13_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B15_2015": {
+      "branch_length": 0.00080304
+    },
+    "camel/UAE_B16_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B18_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B19_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B1_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B20_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B21_2015": {
+      "branch_length": 1e-06
+    },
+    "camel/UAE_B22_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B24_2015": {
+      "branch_length": 1e-06
+    },
+    "camel/UAE_B25_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B26_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B27_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B28_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B29_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B2_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B30_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B31_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B32_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B33_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B34_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B35_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B37_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B40_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B41_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B44_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B45_2015": {
+      "branch_length": 1e-06
+    },
+    "camel/UAE_B46_2015": {
+      "branch_length": 1e-06
+    },
+    "camel/UAE_B47_2015": {
+      "branch_length": 0.00080379
+    },
+    "camel/UAE_B48_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B49_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B4_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B50_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B52_2015": {
+      "branch_length": 0.00080335
+    },
+    "camel/UAE_B53_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B54_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B56_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B58_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B59_2015": {
+      "branch_length": 1e-06
+    },
+    "camel/UAE_B5_2015": {
+      "branch_length": 1e-06
+    },
+    "camel/UAE_B60_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B61_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B62_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B63_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B64_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B65_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B66_2015": {
+      "branch_length": 1e-06
+    },
+    "camel/UAE_B67_2015": {
+      "branch_length": 0.00080294
+    },
+    "camel/UAE_B68_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B69_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B6_2015": {
+      "branch_length": 1e-06
+    },
+    "camel/UAE_B70_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B71_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B72_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B73_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B75_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B76_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B77_2015": {
+      "branch_length": 1e-06
+    },
+    "camel/UAE_B78_2015": {
+      "branch_length": 0.00080433
+    },
+    "camel/UAE_B79_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B7_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B80_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B81_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B82_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B83_2015": {
+      "branch_length": 0.00080335
+    },
+    "camel/UAE_B84_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B85_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B86_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B87_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B8_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B90_2015": {
+      "branch_length": 0.00160746
+    },
+    "camel/UAE_B91_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B92_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B93_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B95_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B96_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B97_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B99_2015": {
+      "branch_length": 0.0
+    },
+    "camel/UAE_B9_2015": {
+      "branch_length": 0.0
+    },
+    "civet007": {
+      "branch_length": 0.00079218
+    },
+    "civet010": {
+      "branch_length": 0.0
+    },
+    "civet020": {
+      "branch_length": 0.00079179
+    },
+    "inf_MHV_A59": {
+      "branch_length": 0.0
+    },
+    "llama_passaged_Qatar15": {
+      "branch_length": 0.00080322
+    },
+    "mink/DK/AD37_Farm3/2020": {
+      "branch_length": 0.0
+    },
+    "recSARS_CoV_HKU_39849": {
+      "branch_length": 0.0
+    },
+    "repA59/RJHM": {
+      "branch_length": 1e-06
+    },
+    "repJHM/RA59": {
+      "branch_length": 0.0
+    },
+    "wtic_MB": {
+      "branch_length": 0.0
+    }
+  }
+}
